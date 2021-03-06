@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ramin:ramin@cluster0-3k6pu.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "littlesecret"
+}
