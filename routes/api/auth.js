@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-
+const config = require("config");
 const User = require("../../models/User");
 
 router.get("/", async (req, res) => {
@@ -17,9 +17,8 @@ router.get("/", async (req, res) => {
 
 router.post("/register", async (req, res) => {
   const { email, password, password2, username } = req.body;
-
   console.log(req.body);
-  if (password !== passwordConf) {
+  if (password !== password2) {
     return res.status(400).json({
       errors: [
         {
@@ -30,8 +29,9 @@ router.post("/register", async (req, res) => {
   }
 
   try {
-    let user = User.find({ email });
-    if (user) {
+    let user = await User.findOne({ email });
+    console.log(user);
+    if (user.email) {
       return res.status(400).json({
         errors: [
           {
