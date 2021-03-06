@@ -30,8 +30,7 @@ router.post("/register", async (req, res) => {
 
   try {
     let user = await User.findOne({ email });
-    console.log(user);
-    if (user.email) {
+    if (user.email === null) {
       return res.status(400).json({
         errors: [
           {
