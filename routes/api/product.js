@@ -41,5 +41,13 @@ router.post("/", async (req, res) => {
   }
 });
 
+router.get("/:id", async (req,res)=>{
+    let id = req.params.id
+    let phone = await Phone.findById(id)
+    res.json({phone})
+})
+
+
+
 module.exports = router;
 
