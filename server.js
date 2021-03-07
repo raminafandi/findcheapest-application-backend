@@ -1,5 +1,4 @@
 const express = require("express");
-const bodyParser = require("body-parser");
 const connectDB = require("./config/db");
 const cors = require("cors");
 
@@ -13,9 +12,7 @@ connectDB();
 // Middlewares
 app.use(cors());
 app.use(express.json());
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-
+// app.use(express.urlencoded()); //Parse URL-encoded bodies
 // Define Routes
 app.use("/api", require("./routes/api/home"));
 app.use("/api/products", require("./routes/api/product"));

@@ -4,8 +4,9 @@ const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 const config = require("config");
 const User = require("../../models/User");
+const auth = require("../../middleware/auth");
 
-router.get("/", async (req, res) => {
+router.get("/myprofile", auth, async (req, res) => {
   try {
     const user = await User.findById(req.user.id).select("-password");
     res.json(user);

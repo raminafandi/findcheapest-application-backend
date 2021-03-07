@@ -1,7 +1,8 @@
 const express = require("express");
 const router = express.Router();
+const auth = require("../../middleware/auth");
 
-router.get("/", async (req, res) => {
+router.get("/", auth, async (req, res) => {
   try {
     res.json({ neymar: "home" });
   } catch (err) {
@@ -9,7 +10,5 @@ router.get("/", async (req, res) => {
     res.status(500).send("Server Error");
   }
 });
-
-
 
 module.exports = router;
