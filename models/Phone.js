@@ -41,7 +41,11 @@ const PhoneSchema = new mongoose.Schema({
     },
     sim : {
         type: Number,
-    }
+    },
+    created: {
+        type: Date,
+        default: Date.now,
+    },
 })
 
 const Phone = mongoose.model("Phone",PhoneSchema)

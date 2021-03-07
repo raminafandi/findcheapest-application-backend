@@ -18,6 +18,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // Define Routes
 app.use("/api", require("./routes/api/home"));
+app.use("/api/products", require("./routes/api/product"));
 app.use("/api/auth", require("./routes/api/auth"));
 
 app.listen(PORT, () => {
