@@ -1,50 +1,42 @@
 const express = require("express");
 const router = express.Router();
-const Phone = require("../../models/Phone");
+const Food = require("../../models/Food");
 
 router.post("/", async (req, res) => {
   const {
-    brand,
     name,
+    description,
     price,
-    ram,
-    memory,
-    camera,
+    portion,
+    img,
     url,
-    screen,
-    os,
-    processor,
-    sim,
+    restaurant,
   } = req.body;
 
   try {
-    let phone = new Phone({
-      brand,
+    let food = new Food({
       name,
+      description,
       price,
-      ram,
-      memory,
-      camera,
+      portion,
+      img,
       url,
-      screen,
-      os,
-      processor,
-      sim,
+      restaurant,
     });
 
-    await phone.save()
-    res.json({phone})
+    await food.save()
+    res.json({ food })
   }
-  catch (err){
-      console.error(err.message)
-      res.status(500).send("Server error(product)");
+  catch (err) {
+    console.error(err.message)
+    res.status(500).send("Server error(product)");
   }
 });
 
-router.get("/:id", async (req,res)=>{
-    let id = req.params.id
-    let phone = await Phone.findById(id)
-    res.json({phone})
+router.get("/:id", async (req, res) => {
+  let id = req.params.id
+  let food = await Food.findById(id)
+  res.json({ food })
 })
 
 
