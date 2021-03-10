@@ -17,6 +17,7 @@ app.use(express.json());
 app.use("/api", require("./routes/api/home"));
 app.use("/api/products", require("./routes/api/product"));
 app.use("/api/auth", require("./routes/api/auth"));
+app.use("/api/restaurants", require("./routes/api/restaurant"));
 app.use("/admin",require("./routes/api/admin"));
 
 app.listen(PORT, () => {

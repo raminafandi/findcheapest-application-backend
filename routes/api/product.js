@@ -33,10 +33,18 @@ router.post("/", async (req, res) => {
   }
 });
 
+
 router.get("/:id", async (req, res) => {
   let id = req.params.id
-  let food = await Food.findById(id)
-  res.json({ food })
+  try {
+    let food = await Food.findById(id)
+    res.status(200).json({ food })
+  }
+  catch (err) {
+    console.error(err.message)
+    res.status(500).send("Server error(product)");
+  }
+
 })
 
 
