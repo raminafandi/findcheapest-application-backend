@@ -2,37 +2,39 @@ const mongoose = require('mongoose')
 
 
 const FoodSchema = new mongoose.Schema({
-    name : {
+    name: {
         type: String,
         required: true
     },
-    description : {
+    description: {
         type: String,
     },
-    price : {
+    price: {
         type: Number,
         required: true
     },
-    portion : {
+    portion: {
         type: Number,
         default: 1
     },
-    img : {
+    img: {
         type: String,
     },
-    url : {
+    url: {
         type: String,
         required: true
     },
-    restaurant: {
-        type: String,
+    _restaurant: {
+        type: mongoose.Schema.ObjectId,
+        ref: "Restaurant"
     },
     created: {
         type: Date,
         default: Date.now,
     },
+
 })
 
-const Food = mongoose.model("Food",FoodSchema)
+const Food = mongoose.model("Food", FoodSchema)
 module.exports = Food
 
