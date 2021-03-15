@@ -1,8 +1,9 @@
 const express = require("express");
 const router = express.Router();
 const Food = require("../../models/Food");
+const auth = require("../../middleware/auth");
 
-router.post("/", async (req, res) => {
+router.post("/", auth, async (req, res) => {
   const { name, description, price, portion, img, url, restaurant } = req.body;
 
   try {
@@ -24,7 +25,7 @@ router.post("/", async (req, res) => {
   }
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/:id", auth, async (req, res) => {
   let id = req.params.id;
   try {
     let food = await Food.findById(id);
@@ -35,7 +36,7 @@ router.get("/:id", async (req, res) => {
   }
 });
 
-router.get("/", async (req, res) => {
+router.get("/", auth, async (req, res) => {
   try {
     let products = await Food.find({});
     res.status(200).json(products);
