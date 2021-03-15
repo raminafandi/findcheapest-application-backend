@@ -16,7 +16,7 @@ router.post("/", auth, async (req, res) => {
   }
 });
 
-router.get("/", auth, async (req, res) => {
+router.get("/", async (req, res) => {
   try {
     let restaurants = await Restaurant.find({});
     res.status(200).json(restaurants);
@@ -26,7 +26,7 @@ router.get("/", auth, async (req, res) => {
   }
 });
 
-router.get("/:id", auth, async (req, res) => {
+router.get("/:id", async (req, res) => {
   let id = req.params.id;
   try {
     let restaurant = await Restaurant.findById(id);
