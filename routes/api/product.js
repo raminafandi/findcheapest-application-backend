@@ -33,6 +33,24 @@ router.post("/", async (req, res) => {
   }
 });
 
+router.get("/", async (req, res) => {
+  let search = req.query.search
+  try {
+    let foods = await Food.find({
+      $or: [
+        { "name": { $regex: `.*${search}*.`, $options: "i" }},
+        { "description": { $regex: `.*${search}*.`, $options: "i" }}
+      ]
+    })
+    res.status(200).json({ "query": { foods } })
+  }
+  catch (err) {
+    console.error(err.message)
+    res.status(500).send("Server error(search)");
+  }
+
+})
+
 
 router.get("/:id", async (req, res) => {
   let id = req.params.id
@@ -46,6 +64,8 @@ router.get("/:id", async (req, res) => {
   }
 
 })
+
+
 
 
 
