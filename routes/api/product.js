@@ -35,13 +35,21 @@ router.post("/", async (req, res) => {
 
 router.get("/", async (req, res) => {
   let search = req.query.search
+  let price = req.query.price
+
+  let query = {
+    $or: [
+      { "name": { $regex: `.*${search}*.`, $options: "i" } },
+      { "description": { $regex: `.*${search}*.`, $options: "i" } }
+    ],
+  }
+
+  if (price) {
+    query['$and'] = [{ price: `${price}` }]
+  }
+
   try {
-    let foods = await Food.find({
-      $or: [
-        { "name": { $regex: `.*${search}*.`, $options: "i" }},
-        { "description": { $regex: `.*${search}*.`, $options: "i" }}
-      ]
-    })
+    let foods = await Food.find(query)
     res.status(200).json({ "query": { foods } })
   }
   catch (err) {
