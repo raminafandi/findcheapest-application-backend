@@ -37,16 +37,20 @@ router.get("/", async (req, res) => {
   let search = req.query.search
   let price = req.query.price
 
-  let query = {
-    $or: [
+  let query = {}
+
+  if(search)
+  {
+    query['$or'] = [
       { "name": { $regex: `.*${search}*.`, $options: "i" } },
       { "description": { $regex: `.*${search}*.`, $options: "i" } }
-    ],
+    ]
   }
 
   if (price) {
-    query['$and'] = [{ price: `${price}` }]
+    query['$and'] = [{price: {$lte:`${price}`}}]
   }
+
 
   try {
     let foods = await Food.find(query)
