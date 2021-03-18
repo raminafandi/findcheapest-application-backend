@@ -42,7 +42,7 @@ router.get("/", auth, async (req, res) => {
     res.status(200).json(products);
   } catch (err) {
     console.error(err);
-    res.status(500).send("Server Error(products)");
+    res.status(500).send("Server Error(product)");
   }
 });
 
