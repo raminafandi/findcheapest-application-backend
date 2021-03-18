@@ -4,7 +4,8 @@ const mongoose = require("mongoose")
 const RestaurantSchema = new mongoose.Schema({
     name: { type: String, required: true },
     logo: { type: String, required: true },
-    description: { type: String, required: true },
+    description: { type: String },
+    food_type:{type: String},
     address: { latitude: { type: String }, longitude: { type: String }},
     created: {
         type: Date,

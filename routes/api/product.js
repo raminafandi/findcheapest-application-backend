@@ -10,9 +10,8 @@ router.post("/", async (req, res) => {
     portion,
     img,
     url,
-    restaurant,
+    _restaurant,
   } = req.body;
-
   try {
     let food = new Food({
       name,
@@ -21,7 +20,7 @@ router.post("/", async (req, res) => {
       portion,
       img,
       url,
-      restaurant,
+      _restaurant,
     });
 
     await food.save()

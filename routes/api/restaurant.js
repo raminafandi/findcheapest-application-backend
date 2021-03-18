@@ -3,10 +3,10 @@ const router = express.Router()
 const Restaurant = require("../../models/Restaurant")
 
 router.post('/', async (req, res) => {
-    const { name, logo, description, address } = req.body;
+    const { name, logo, description, address,food_type } = req.body;
 
     try {
-        let restaurant = new Restaurant({ name, logo, description, address });
+        let restaurant = new Restaurant({ name, logo, description, food_type, address });
         await restaurant.save();
         res.json({ restaurant });
     }
