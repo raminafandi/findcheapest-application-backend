@@ -2,6 +2,7 @@ const express = require("express");
 const router = express.Router();
 const Food = require("../../models/Food");
 const auth = require("../../middleware/auth");
+const paginatedResults = require("../../middleware/paginatedResults");
 
 router.post("/", async (req, res) => {
   const { name, description, price, portion, img, _restaurant } = req.body;
@@ -23,7 +24,7 @@ router.post("/", async (req, res) => {
   }
 });
 
-router.get("/", async (req, res) => {
+router.get("/filter", async (req, res) => {
   let search = req.query.search;
   let price = req.query.price;
 
@@ -41,7 +42,7 @@ router.get("/", async (req, res) => {
   }
 
   try {
-    let foods = await Food.find(query).sort({price:1});
+    let foods = await Food.find(query).sort({ price: 1 });
     res.status(200).json({ query: { foods } });
   } catch (err) {
     console.error(err.message);
@@ -49,7 +50,7 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/product/:id", async (req, res) => {
   let id = req.params.id;
   try {
     let food = await Food.findById(id);
@@ -60,13 +61,12 @@ router.get("/:id", async (req, res) => {
   }
 });
 
-router.get("/", auth, async (req, res) => {
+router.get("/all", auth, paginatedResults(Food), async (req, res) => {
   try {
-    let products = await Food.find({});
-    res.status(200).json(products);
+    res.status(200).json(res.paginatedResults);
   } catch (err) {
     console.error(err);
-    res.status(500).send("Server Error(product)");
+    res.status(500).send("Server Error(product1)");
   }
 });
 
