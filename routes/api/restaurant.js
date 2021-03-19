@@ -32,6 +32,19 @@ router.get("/", async (req, res) => {
   }
 });
 
+
+router.get("/find",async(req,res)=>{
+  try{
+    let title = req.query.title;
+    let food = await Restaurant.findOne({name:title})
+    res.send({"id":food._id})
+  }
+  catch (err){
+    console.error(err);
+    res.status(500).send("Server Error(restaurant)");
+  }
+})
+
 router.get("/:id", async (req, res) => {
   let id = req.params.id;
   try {

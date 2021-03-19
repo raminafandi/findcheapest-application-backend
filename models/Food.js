@@ -20,10 +20,6 @@ const FoodSchema = new mongoose.Schema({
     img: {
         type: String,
     },
-    url: {
-        type: String,
-        required: true
-    },
     _restaurant: {
         type: mongoose.Schema.ObjectId,
         ref: "Restaurant"

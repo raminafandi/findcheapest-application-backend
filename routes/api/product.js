@@ -4,7 +4,7 @@ const Food = require("../../models/Food");
 const auth = require("../../middleware/auth");
 
 router.post("/", async (req, res) => {
-  const { name, description, price, portion, img, url, _restaurant } = req.body;
+  const { name, description, price, portion, img, _restaurant } = req.body;
   try {
     let food = new Food({
       name,
@@ -12,7 +12,6 @@ router.post("/", async (req, res) => {
       price,
       portion,
       img,
-      url,
       _restaurant,
     });
 
