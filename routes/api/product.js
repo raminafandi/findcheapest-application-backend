@@ -41,7 +41,7 @@ router.get("/", async (req, res) => {
   }
 
   try {
-    let foods = await Food.find(query);
+    let foods = await Food.find(query).sort({price:1});
     res.status(200).json({ query: { foods } });
   } catch (err) {
     console.error(err.message);
