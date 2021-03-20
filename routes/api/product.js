@@ -3,8 +3,8 @@ const router = express.Router();
 const Food = require("../../models/Food");
 const auth = require("../../middleware/auth");
 const paginatedResults = require("../../middleware/paginatedResults");
-const paginate = require("../../helpers/paginate")
-
+const paginatedFilterResults = require("../../middleware/paginatedFilterResults");
+// const paginate = require("../../helpers/paginate")
 
 router.post("/", async (req, res) => {
   const { name, description, price, portion, img, _restaurant } = req.body;
@@ -26,36 +26,9 @@ router.post("/", async (req, res) => {
   }
 });
 
-router.get("/filter", async (req, res) => {
-  let search = req.query.search;
-  let price = req.query.price;
-
-  // paginate
-  let page = req.query.page;
-  let limit = req.query.limit;
-
-  let query = {};
-
-  if (search) {
-    query["$or"] = [
-      { name: { $regex: `.*${search}*.`, $options: "i" } },
-      { description: { $regex: `.*${search}*.`, $options: "i" } },
-    ];
-  }
-
-  if (price) {
-    query["$and"] = [{ price: { $lte: `${price}` } }];
-  }
-
+router.get("/filter", paginatedFilterResults(Food), async (req, res) => {
   try {
-    let foods = await Food.find(query).sort({ price: 1 });
-
-    if(page && limit)
-    {
-      foods = paginate(foods,page,limit)
-    }
-
-    res.status(200).json({ query: { foods } });
+    res.status(200).json(res.paginatedResults);
   } catch (err) {
     console.error(err.message);
     res.status(500).send("Server error(search)");
@@ -73,7 +46,7 @@ router.get("/product/:id", async (req, res) => {
   }
 });
 
-router.get("/all",auth, paginatedResults(Food), async (req, res) => {
+router.get("/all", auth, paginatedResults(Food), async (req, res) => {
   try {
     res.status(200).json(res.paginatedResults);
   } catch (err) {
