@@ -40,6 +40,7 @@ module.exports = function paginatedResults(model) {
     try {
       results.results = await model
         .find(query)
+        .sort({ price: 1 })
         .limit(limit)
         .skip(startIndex)
         .exec();
