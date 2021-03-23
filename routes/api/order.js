@@ -4,6 +4,12 @@ const auth = require("../../middleware/auth");
 
 const Order = require("../../models/Order");
 
+/* 
+POST Method : /api/order
+Creates new order
+Returns : new order
+should be authenticated
+*/
 router.post("/", auth, async (req, res) => {
   const { total_amount, _food } = req.body;
   try {
@@ -21,6 +27,12 @@ router.post("/", auth, async (req, res) => {
   }
 });
 
+/* 
+GET Method : /api/order/:id
+Gets order by id
+Returns : found order as object
+should be authenticated
+*/
 router.get("/:id", auth, async (req, res) => {
   let id = req.params.id;
   try {
@@ -37,6 +49,12 @@ router.get("/:id", auth, async (req, res) => {
   }
 });
 
+/* 
+GET Method : /api/order/me/orders
+Gets orders of the user 
+Returns : all orders of the user
+should be authenticated
+*/
 router.get("/me/orders", auth, async (req, res) => {
   try {
     let orders = await Order.find({ _user: req.user.id });
