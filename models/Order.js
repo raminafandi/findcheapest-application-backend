@@ -5,8 +5,10 @@ const OrderSchema = new mongoose.Schema({
   status: { type: String, default: "Processing" },
   _food: [
     {
+      restaurantId: {type: mongoose.Schema.ObjectId, ref: "Restaurant"},
       foodType: { type: mongoose.Schema.ObjectId, ref: "Food" },
       count: { type: Number },
+      amount: {type: Number}
     },
   ],
   _user: { type: mongoose.Schema.ObjectId, ref: "User" },

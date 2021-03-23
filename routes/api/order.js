@@ -3,18 +3,33 @@ const router = express.Router();
 const auth = require("../../middleware/auth");
 
 const Order = require("../../models/Order");
+const Restaurant = require("../../models/Restaurant");
 
 router.post("/", auth, async (req, res) => {
-  const { total_amount, _food } = req.body;
+  let { total_amount, _food, _restaurant } = req.body;
   try {
+    
+    // 5 percentage discount
+    total_amount = total_amount * 0.95
+
     let order = new Order({
       total_amount,
       _food,
+      _restaurant,
       _user: req.user.id,
     });
 
     await order.save();
-    res.json({ order });
+
+
+    order._food.forEach(async(food)=>{
+      let restaurantId = food.restaurantId
+      let restaurant = await Restaurant.findById(restaurantId)
+      restaurant.amount += food.amount
+      await restaurant.save()
+    })
+    
+    res.json({ order,message:"You succesfully get 5% discount!" });
   } catch (err) {
     console.error(err.message);
     res.status(500).send("Server error(product)");
