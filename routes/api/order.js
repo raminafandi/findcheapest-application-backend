@@ -12,30 +12,27 @@ Returns : new order
 should be authenticated
 */
 router.post("/", auth, async (req, res) => {
-  let { total_amount, _food, _restaurant } = req.body;
+  let { total_amount, _food } = req.body;
   try {
-    
     // 5 percentage discount
-    total_amount = total_amount * 0.95
+    total_amount = total_amount * 0.95;
 
     let order = new Order({
       total_amount,
       _food,
-      _restaurant,
       _user: req.user.id,
     });
 
     await order.save();
 
+    order._food.forEach(async (food) => {
+      let restaurantId = food.restaurantId;
+      let restaurant = await Restaurant.findById(restaurantId);
+      restaurant.amount += food.amount;
+      await restaurant.save();
+    });
 
-    order._food.forEach(async(food)=>{
-      let restaurantId = food.restaurantId
-      let restaurant = await Restaurant.findById(restaurantId)
-      restaurant.amount += food.amount
-      await restaurant.save()
-    })
-    
-    res.json({ order,message:"You succesfully get 5% discount!" });
+    res.json({ order, message: "You succesfully get 5% discount!" });
   } catch (err) {
     console.error(err.message);
     res.status(500).send("Server error(product)");
