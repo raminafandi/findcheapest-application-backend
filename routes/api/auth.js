@@ -12,7 +12,6 @@ Registers the user
 Returns : token for authentication
 no need to be authenticated
 */
-
 router.post("/register", async (req, res) => {
   const { email, password, password2, username } = req.body;
   if (password !== password2) {
@@ -74,7 +73,6 @@ Login the user
 Returns : token for authentication
 no need to be authenticated
 */
-
 router.post("/login", async (req, res) => {
   const { email, password } = req.body;
 
@@ -125,7 +123,6 @@ Gets the user information
 Returns : user info as object without password field
 should be authenticated
 */
-
 router.get("/myprofile", auth, async (req, res) => {
   try {
     const user = await User.findById(req.user.id).select("-password");
