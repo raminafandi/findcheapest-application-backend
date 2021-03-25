@@ -14,7 +14,6 @@ should be authenticated
 router.post("/", auth, async (req, res) => {
   let { total_amount, _food } = req.body;
   try {
-    
     // 5 percentage discount
     total_amount = total_amount * 0.95;
 
@@ -24,15 +23,16 @@ router.post("/", auth, async (req, res) => {
       _user: req.user.id,
     });
 
-    await order.save();
-
-    order._food.forEach(async (food) => {
-      let restaurantId = food.restaurantId;
+    for (let i = 0; i < order._food.length; i++) {
+      let restaurantId = order._food[i].restaurantId;
       let restaurant = await Restaurant.findById(restaurantId);
-      restaurant.amount += food.amount;
+      order._food[i].restaurantName = restaurant.name;
+      restaurant.amount += order._food[i].amount;
       await restaurant.save();
-    });
+    }
+    console.log("order", order);
 
+    await order.save();
     res.json({ order, message: "You succesfully get 5% discount!" });
   } catch (err) {
     console.error(err.message);

@@ -18,7 +18,7 @@ router.post("/", async (req, res) => {
       description,
       food_type,
       location,
-      address
+      address,
     });
     await restaurant.save();
     res.json({ restaurant });
@@ -53,9 +53,9 @@ no need to be authenticated
 router.get("/find", async (req, res) => {
   try {
     let title = req.query.title;
-    let food = await Restaurant.findOne({ name: title });
-    console.log({food})
-    res.send({ id: food._id });
+    let restaurant = await Restaurant.findOne({ name: title });
+    console.log({ restaurant });
+    res.send({ id: restaurant._id });
   } catch (err) {
     console.error(err);
     res.status(500).send("Server Error(restaurant)");
