@@ -3,8 +3,6 @@ module.exports = function paginatedResults(model) {
     const search = req.query.search;
     const price = req.query.price;
 
-    console.log(search,price);
-
     const page = parseInt(req.query.page);
     const limit = parseInt(req.query.limit);
 
@@ -21,7 +19,7 @@ module.exports = function paginatedResults(model) {
     }
 
     if (price) {
-      query["$and"] = [{ price: { $lte: `${price}` } }];
+      query["$and"] = [{ price: { $lte: `${price}`,$gte: `${price/2}` } }];
     }
 
     const results = {};

@@ -10,7 +10,7 @@ Returns : new restaurant data
 no neet to be authenticated
 */
 router.post("/", async (req, res) => {
-  const { name, logo, description, location, food_type } = req.body;
+  const { name, logo, description, location, address, food_type } = req.body;
   try {
     let restaurant = new Restaurant({
       name,
@@ -18,6 +18,7 @@ router.post("/", async (req, res) => {
       description,
       food_type,
       location,
+      address
     });
     await restaurant.save();
     res.json({ restaurant });
@@ -53,6 +54,7 @@ router.get("/find", async (req, res) => {
   try {
     let title = req.query.title;
     let food = await Restaurant.findOne({ name: title });
+    console.log({food})
     res.send({ id: food._id });
   } catch (err) {
     console.error(err);
