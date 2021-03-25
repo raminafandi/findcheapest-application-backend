@@ -1,0 +1,514 @@
+,rest,food_type,name,desc,price,img
+0,BİR-İKİ Döner,KLASSIK 🌯,Çıtır Dürüm Dana Əti ilə,"Lavaş, dana əti, pomidor, fri kartofu, mayonez, sous, lavaş üçün (üstü) sous","4,40₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d3f15ad36ed2332c75f5d79/4b8c0f98-4445-11eb-bd93-6a0bcea22ff2_0a5a9549.jpeg
+1,BİR-İKİ Döner,XÜSUSİ ✨,3 Lavaş,"Dönər, şaurma və falafel (ət və ya toyuq)","4,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/1ce66de2-b485-11e9-b0c5-0a58646543a8_3_lavash.jpeg
+2,BİR-İKİ Döner,ƏLAVƏ 🍟,Kənd Kartofu,,"3,70₼",https://wolt-menu-images-cdn.wolt.com/menu-images/2dbb2234-b485-11e9-bc45-0a586466080d_potato_wedges.jpeg
+3,BİR-İKİ Döner,İÇKİLƏR 🥤,Sandora Alma® 250 ml,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/2f5b1070-b748-11e9-9d9d-0a5864601048_Sandora_Apple_250ml.jpeg
+4,Vapiano Uzeyir Hajibeyov,Wolt Specials,Baltika Menu 🥤,Pizza Diavolo (donuz əti ilə) və salat Mista Della Casa yeni qiymətə və 2 Baltika 0 Greypfrut hədiyyə!,"20,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d0907602e474b3abb39723a/1cc9f26c-92aa-11ea-bdbf-0a58646fc605_whatsapp_image_2020_05_07_at_13.13.08.jpeg
+5,Vapiano Uzeyir Hajibeyov,PİZZA,Pizza BBQ Supreme,"Barbekyu toyuğu, brusketta, qırmızı soğan, tomat sousu, mozarella","13,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ba89bc4-9bf6-11e9-9e5c-0a586460d7e1_Pizza_BBQ_Supreme_01_SMALL.jpeg
+6,Vapiano Uzeyir Hajibeyov,PASTA,Pasta Gamberetti E Spinaci,"Qızardılmış krevetlər, qaymaq sousu, reyhan pestosu, şam ağacı tumları, Grana Padano D.O.P., ispanaq, çerri pomidorları, soğan","14,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/4c9f0bb2-9bf2-11e9-895c-0a58646018d3_Core_Pasta_Gamberetti_E_Spinachi_With_Linguine_SMALL.jpeg
+7,Vapiano Uzeyir Hajibeyov,RAVIOLI,Ravioli Con Ricotta E Rucola,Rukkola və rikotta pendiri ilə doldurulmuş ravioli,"12,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/bb829788-9bf2-11e9-9f7f-0a586460bb06_Core_Pasta_Ravioli_Con_Ricotta_E_Rucola_SMALL.jpeg
+8,Vapiano Uzeyir Hajibeyov,LAZANYA,Al Forno,"Bolonez sousu, beşamel sousu, Grana Padano D.O.P. və mozarella pendiri","13,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/fd0150ca-419a-11ea-9eef-0a586474620b_Lasagne_-_Al_Forno_02_-_Low_Res.jpeg
+9,Vapiano Uzeyir Hajibeyov,RİZOTTO,Pollo Con Gorgonzola,"Toyuq filesi, soğan, qaymaq, gorgonzola, rəngli bibər, yaşıl sogan, parmezan","13,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d0907602e474b3abb39723a/f5989d0a-0a23-11eb-82ca-263bd76ac74f_risotto___pollo_con_gorgonzola___low_res__1_.jpeg
+10,Vapiano Uzeyir Hajibeyov,ANTIPASTI,Sarımsaqlı Çörək,,"4,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/404b5182-41a0-11ea-ba39-0a586474620b_Pizza_-_Pizzabread_With_Garlic_Oil.jpeg
+11,Vapiano Uzeyir Hajibeyov,ŞORBALAR,Tomat Şorbası,Təzə pomidorlardan hazırlanmış klassik tomat şorbası,"5,30₼",https://wolt-menu-images-cdn.wolt.com/menu-images/91ecaa3a-9bf2-11e9-b388-0a586461a918_Tomato_Soup_SMALL.jpeg
+12,Vapiano Uzeyir Hajibeyov,SALAT,Salat Burrata,"Burrata, çerri pomidorları, aruqula","10,70₼",https://wolt-menu-images-cdn.wolt.com/menu-images/fcc6d08e-419b-11ea-9178-0a586474620b_Insalata_-_Burrata.jpeg
+13,Vapiano Uzeyir Hajibeyov,SOUSLAR,Sezar Sousu,,"1,10₼",
+14,Vapiano Uzeyir Hajibeyov,DESERT,Pasticcini,İtalyan Qurabiyəsi,"1,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/4973517c-9b49-11e9-9076-0a5864601a7d_Dolci_Pasticceria_03_SMALL.jpeg
+15,Vapiano Uzeyir Hajibeyov,İÇKİLƏR,Tomat Şirəsi,,"3,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d0907602e474b3abb39723a/5a052f06-0a24-11eb-9c00-c6d974268644_bar_orange_juice___low_res.jpeg
+16,Vapiano Uzeyir Hajibeyov,SPİRTLİ İÇKİLƏR,Hillside Reserve,,"46,40₼",https://wolt-menu-images-cdn.wolt.com/menu-images/1f6e0446-11ee-11ea-ab6f-0a586468da0d_Untitled2.jpeg
+17,Meatadore,BURGERLƏR,Cubana Chicken Burger,"140 gr toyuq, coleslaw salatı, sacaqlı kartof, kahi
+","10,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/ababf354-1b4a-11ea-86ae-0a586466e97e_Queen_-_chicken_-_classic_-_mushroom_burger_-_chicken_rokfor.jpeg
+18,Meatadore,CHEESESTEAK,Mushroom Cheesesteak,"Təzə baget çörəyi, közdə hazırlanmış antrikot, közdə qızardılmış göbələk, karamelize soğan, cheez whiz (əridilmiş cheddar pendiri), acılı sous, kartof fri","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/a13eef48-1bd1-11ea-8cb8-0a586468f492_mushroom_cheesesteak.jpeg
+19,Meatadore,QARNİRLƏR,Alma Dilim Kartof,,"2,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/ebe7832c-1bf2-11ea-bb5c-0a58646afe16_IMG_9064.jpeg
+20,Meatadore,SOUSLAR,Mayonez,,"0,25₼",
+21,Meatadore,SALATLAR,Portağalı İspanaq Salatı,,"6,00₼",
+22,Meatadore,PİVƏLƏR,Xırdalan 500 ml,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/e3473b64-1bd3-11ea-8557-0a586465c82e_Xirdalan_330ml.jpeg
+23,Meatadore,ALKOQOLSUZ İÇKİLƏR,Ice Tea,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/4663763c-1bf1-11ea-923b-0a586468f492_Ayran_Aten_230ml.jpeg
+24,Namlı Kebap,Wolt Specials,"İkili Lahmacun Menu (Acılı, acısız)","Lahmacun qiyməsi, soğan, cəfəri, kahı, pomidor, limon +1 ədəd sərinləşdirici içki
+","8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/fd2dc2e4-ed1c-11ea-bf81-eeb5bd18087f_lahmacun___ichki.jpeg
+25,Namlı Kebap,ŞORBALAR,İşgəmbə Şorbası,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/0edcca08-daee-11ea-b3b5-02c139339d10_is_kembe_c_orba_1.jpeg
+26,Namlı Kebap,MƏZƏLƏR,Şakşuka Qatıq Souslu,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/76b3f14a-daf5-11ea-a5ec-7e13a52ad24c_s_aks_uka.jpeg
+27,Namlı Kebap,İSTİ QƏLYANALTILAR,Fındıq Lahmacun,"Dana ve quzu qiyməsi, pomidor, cəfəri, soğan, limon","2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/f2dd75ec-daf6-11ea-aaf1-1a2f8378f118_f_nd_k_lahmacun_1.jpeg
+28,Namlı Kebap,SALATLAR,Kapriz Salatı,"Pendir, kahı, roka, cəfəri, reyhan, təzə nanə,  pomidor, xiyar, kök, soğan, bibər, kələm, zeytun yağı və limon suyu","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/32c8b25a-daf9-11ea-bef4-82ad300d433b_sezar_salata_tavuklu_...jpeg
+29,Namlı Kebap,DÖNƏRLƏR,Lavaş Dönər,"Lavaş, 100 q ət, göyərti, kartof qızartması","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/b585bab6-dafa-11ea-8a27-3e6339f0dd5c_do_ner_du_ru_m..jpeg
+30,Namlı Kebap,LAHMACUNLAR,Kaşar Pendirli Lahmacun,"Dana və quzu qiyməsi, kaşar pendiri, pomidor,  cəfəri, soğan","6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/5d54f1ee-dafb-11ea-97b1-826c824a2093_kas_arl__lahmacun....jpeg
+31,Namlı Kebap,PİDELƏR,Qarışıq Pide,"Kiçik hissələrə bölünmüş dana filesi, dana və quzu qiyməsi, bibər, soğan, pomidor, kaşar pendiri, sucuq, yumurta, kərə yağı","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/f3b2a7de-dafc-11ea-99b7-827e57abefd7_kar_s__k_pide.jpeg
+32,Namlı Kebap,KÖFTƏLƏR,İnegöl Köftə,"180 q dana və quzu qiyməsi, çörək, soğan, kaşar pendiri, közdə bişmiş pomidor və bibər, düyü plovu, kartof qızartması","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/2152fc6e-db18-11ea-872f-1a5413f6cedf_inego_l_ko_fte.jpeg
+33,Namlı Kebap,KABABLAR,Harran Kababı,"200 q dana və quzu qiyməsi, acı pul bibər, 30 q basdırma, kaşar pendiri, süzmə qatıq ballı və fıstıqlı, kartof qızartması, közdə bişirilmiş pomidor və bibər, pomidor sousu","18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/2b971fb0-db0f-11ea-8b64-7e47a90ea885_bolu_abant_yayla_kebap.jpeg
+34,Namlı Kebap,İZQARADA ƏT ÇEŞIDLƏRI,İzqara Toyuqlu Akdeniz Salatı,"120 q toyuq döş və ya bud əti, xüsusi sous, Akdeniz salatı","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/f6cf3d30-db18-11ea-872a-aa12a811c7d2_mantarl__tavuk_dolma.jpeg
+35,Namlı Kebap,ŞİRNİYYAT,Sütlaç,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f31066a051911465b2444dd/592c532e-db1d-11ea-8abc-1a5413f6cedf_su_tlac_..jpeg
+36,Namlı Kebap,İÇKİLƏR,Ayran 1 L,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/7c65fc5e-d3f3-11ea-aff2-12d2df3dbc3f_s_alqam_suyu.jpeg
+37,Namlı Kebap,ÇÖRƏK,Puf Çörək,,"1,00₼",
+38,Shaurma №1 Nizami Küç. ,PİZZA,Qarışıq Pizza,"Tomat sousu, holland pendiri, can əti, qıyma, toyuq ətİ, salyami, sarımsaq, pomidor, zeytun, bibər, göbələk
+
+Pizza ilə birlikdə əlavə 1 pizza salatı və 1 pizza sousu hədiyyə olunur","14,30₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e6c262a8122b57a8e7144cc/f16f52d0-780c-11eb-9780-3ac282c295e7_qar_s__q_pizza.jpeg
+39,Shaurma №1 Nizami Küç. ,XÜSUSİ MENYU,Ev Sayağı Kartof,,"3,40₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6740012c-657a-11ea-9178-0a58647d1e23_0B4C4416.jpeg
+40,Shaurma №1 Nizami Küç. ,AİLƏ MENYUSU,Ailə Menyusu,"Böyük toyuqlu pizza (4 dilim), 4 fri kartofu və içki seçimə görə","32,40₼",
+41,Shaurma №1 Nizami Küç. ,SALATLAR,Göbələk Salatı Mayonezdə (200 qr),"Bibər, xiyar, kök, göbələk, mayonez","3,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/1be9c496-7502-11ea-aee0-0a58647f8239_mushroom_salad_with_mayo.jpeg
+42,Shaurma №1 Nizami Küç. ,ŞORBALAR,Dovğa,"Qatıq, yumurta, düyü, göyərti, noxud","3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e6c262a8122b57a8e7144cc/81a0567e-780d-11eb-b45a-2a09a67da3fe_dovga.jpeg
+43,Shaurma №1 Nizami Küç. ,PİDE & LAHMACUN,Pide Shaurma N1,"Holland pendiri, pomidor, bibər, toyuq əti (basdirma), xüsusi sous","6,30₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e6c262a8122b57a8e7144cc/75e45224-7810-11eb-89b9-aa813c7ba649_shaurma_n1_pide.jpeg
+44,Shaurma №1 Nizami Küç. ,DESERT,Künefe,,"7,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e6c262a8122b57a8e7144cc/a3aad532-780d-11eb-b29e-c6065be7945a_ku_n_f_.jpeg
+45,Shaurma №1 Nizami Küç. ,SOYUQ İÇKİLƏR,Təzə Sıxılmış Meyvə Şirəsi,"Alma, portağal, nar, kök, qarışıq","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e6c25d1b913f07ba2713cfb/203f188c-f3fd-11ea-b871-5e06330f9843_bonaqua_500_ml.jpeg
+46,Shaurma №1 Nizami Küç. ,SOUSLAR,Pizza Sousu,,"1,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef1d7bbb91b60703df55eed/5b6351fc-c9ba-11ea-9a46-fe03e042c869_1e834668_1600_4177_9530_d45c1ce7533a.jpeg
+47,Central Baku,SƏHƏR YEMƏYİ,Feseli,"Xəmir, ağ pendir, kərə yağı","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d42aa0f563061877190bb51/936ef562-b950-11ea-980d-4a17c8fd3ffa_feseli.jpeg
+48,Central Baku,ŞORBALAR,Göbələk Şorbası,"Kök, soğan, zeytun yağı, sarımsağ, göbələk, göbələk bulyonu, süd, qaymağ,tərəvəz bulyonu","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/526d9158-baa6-11e9-81a1-0a5864671e06_IMG_6308.jpeg
+49,Central Baku,SOYUQ QƏLYANALTILAR,Bruschetta Cherry Tomatoes,"Çerri pomidor, parmezan pendiri, balzamik sousu, baget","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/76dfb15e-1737-11ea-bf07-0a586469e017_35.jpeg
+50,Central Baku,İSTİ QƏLYANALTILAR,Chicken Crepe Roll,"Fəsəli, toyuq filesi, yaşıl paxla, göbələk, Mozarella, qarışıq göyərti, yunan qatığı","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d42aa0f563061877190bb51/5eb655d6-1521-11eb-80d2-426f78b77e10_crepe_roll.jpeg
+51,Central Baku,SALATLAR,Tuna Salad,"Marinadlı tuna, rotelle pasta, greypfrut, mövsümi meyvələr, qızardılmış çörək tikələri, çerri pomidor, qarışıq göyərti","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d42aa0f563061877190bb51/73c4a22a-1521-11eb-afe7-ca57d312e22b_tuna_salad.jpeg
+52,Central Baku,SENDVİÇ VƏ BURGERLƏR,Double Beef & Double Cheese Burger,"İki qat mal əti, iki qat Çeddar pendiri, xiyar turşusu, soğan, pomidor, qarışıq göyərti, burqer sousu, kartof qızartması, ayoli sousu","18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/fbc9f0ea-174c-11ea-85b6-0a586468f239_30.jpeg
+53,Central Baku,PİZZALAR,Caesar Pizza,"Toyuq filesi, mozzarella, pomidor, kahı, parmezan, Sezar sousu","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d42aa0f563061877190bb51/61d4692a-a3fb-11ea-8cc4-0a586477cf38_img_4400.jpeg
+54,Central Baku,PASTA,Casarecce Al Ragu,"Casarecce pasta, can əti, kök, pomidor, parmezan, Neopalitan sousu","16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/2314ca7c-1747-11ea-8587-0a586469e018_12.jpeg
+55,Central Baku,MİLLİ YEMƏKLƏR,Baku Dolma,"Quzu əti, üzüm yarpağı, düyü, göyərti, qatıq","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6ddf3662-baab-11e9-bec3-0a5864671e0d_IMG_5671.jpeg
+56,Central Baku,ƏSAS YEMƏKLƏR,Crispy Fish with Tartar Sauce,"Forel filesi, kartof dilimləri, tartar sousu, qarışıq göyərti
+","16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d42aa0f563061877190bb51/ad5c7b16-1521-11eb-a708-826b13fe3550_crispy_fish.jpeg
+57,Central Baku,QARNİRLƏR,Singapore Style Cabbage,,"4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/3d2f0400-1be2-11ea-bcdf-0a58646007f6_Singapore_cabbage.jpeg
+58,Central Baku,DESERTLƏR,Apple Pie,"Tart xəmiri, alma, qara kişmiş","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/160ec318-c031-11e9-bf77-0a586467dc0f__C5A2465.jpeg
+59,Central Baku,İÇKİLƏR,Sirab Premium® 750 ml,Qazsız,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/ed36dc30-c8d9-11e9-b37a-0a5864600579__C5A5889.jpeg
+60,SunSet Cafe,QƏLYANALTILAR,Sarımsaqlı Çörək,"Qızardılmış çörək loxması sarımsaq, kərə yağı, Qauda və Parmezan pendirlərilə Marinara sousu ilə","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e58ee356acf73e7feb941fa/7c1f8044-e6cc-11ea-a866-528b1283dc0f_garlic_cheese_bread.jpeg
+61,SunSet Cafe,SALATLAR,Rokfor Steyk Salatı,"Qrildə qızardılmış can əti, kahı, pomidor, xiyar, Rokfor pendiri Beyzik sousu altında","17,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e58ee356acf73e7feb941fa/ae0ce13c-e6cc-11ea-8348-26d0e09f7d5e_rokfor_salati.jpeg
+62,SunSet Cafe,BURQERLƏR VƏ SENDVİÇLƏR,Krispi Qara Burger,"200 qr ət farşı, şomu, bekon, BBQ sous, göbələk, karamelləşdilişmiş soğan, Çedar pendiri, xırçıltılı kartof ","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e58ee356acf73e7feb941fa/506248f6-e6cc-11ea-9b21-0275a59c33ec_crispy_black_burger.jpeg
+63,SunSet Cafe,ƏSAS YEMƏKLƏR,Toyuqlu Vista,Qrildə toyuq filesi Şefdən xüsusi sous altında,"18,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e58ee356acf73e7feb941fa/0eb3fe6c-e6cd-11ea-b6d0-3ac20b8033c0_vista_chicken.jpg__2_.jpeg
+64,SunSet Cafe,ROLLAR,Çili Dürümü,"Lavaşda acılı çili farşı, kahı, xiyar, pomidor, xama və Çeddar pendiri ilə","11,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e58ee356acf73e7feb941fa/414bcd10-e6cc-11ea-8fa0-ca9d3ee3389d_chili_wrap.jpeg
+65,SunSet Cafe,MEKSİKA MƏTBƏXİ,El Qrande Ençiladas,"Tortilya, Gouda pendir, pomidor, yaşıl soğan, lobya, Meksika düyüsü, Salsa, xama, toyuq və ya mal əti","18,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/b204f49e-5d3a-11ea-be59-0a58647b2d05_Enchelados__chicken___meat___mixed_.jpeg
+66,SunSet Cafe,UŞAQ MENYUSU,Toyuq Çubuqları,"Kartof püresi, tərəvəz, qrildə toyuq çubuqları","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/35ca3388-5d46-11ea-bbec-0a586479fb60_Grilled_chicken_fingers.jpeg
+67,SunSet Cafe,ƏLAVƏ,Göbələk,,"1,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/9cb673a0-5d4a-11ea-866c-0a58647b0f16_Sweet_chili_sauce.jpeg
+68,SunSet Cafe,DESERTLƏR,Brauni,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/0bc54eb6-5d4a-11ea-98f0-0a58647b0a2c_Browni.jpeg
+69,SunSet Cafe,PİVƏ,Corona Extra® 330 ml,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e58ee356acf73e7feb941fa/f1f17bfc-a404-11ea-8244-0a586477e109_corona_330_ml.jpeg
+70,SunSet Cafe,İÇKİLƏR,Sirab ® 500 ml,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/98370758-5d5f-11ea-8809-0a58647b3705_Sirab__500ml_.jpeg
+71,PakDad Nizami ,ŞORBALAR,Göbələk Şorbası,"Qaymaq, göbələk, ədviyyatlar","3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/c1d1b730-ed97-11e9-bf3d-0a586462140b_yayla.jpeg
+72,PakDad Nizami ,BAŞLANĞICLAR,Zeytun Salatı,,"3,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/2f41f5c4-651a-11ea-83c8-0a5864764717_021.ZEYTUN_SALATI-3.90AZN.jpeg
+73,PakDad Nizami ,SALATLAR,Çuğundur Salatı,,"3,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/8ada1d26-6515-11ea-a915-0a58647cea21_023.BO_RU_LC__SALATI-3.90AZN.jpeg
+74,PakDad Nizami ,LAHMACUN & PİDE,Sucuklu Pendirli Pide,,"7,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5af068ac-651c-11ea-83ff-0a58647d1c12_006.SUCUQLU_PENDI_RLE_PI_DE-7.90AZN.jpeg
+75,PakDad Nizami ,DÜRÜMLƏR,Lülə Kabab Lavaşda,,"4,50₼",
+76,PakDad Nizami ,SENDVİÇLƏR VƏ BURGERLƏR,Beef Burger,,"6,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5a9adcc4-6527-11ea-a73d-0a58647d3e09_06.beef_burger.jpeg
+77,PakDad Nizami ,PİZZA,Sucuklu Pizza,,"9,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/717b8552-6526-11ea-9b29-0a58647d1c12_006.SUCUQLU_PI_ZZA-8.90AZN.jpeg
+78,PakDad Nizami ,ƏSAS YEMƏKLƏR,Toyuq Filesi Qaymaq Sousunda,,"8,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/b07c944e-6521-11ea-b1bf-0a58647d3e09_009.TOYUQ_FI_LESI__QAYMAQ_SOUSUNDA-8.90AZN.jpeg
+79,PakDad Nizami ,KƏBABLAR,İskəndər Kabab,,"10,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5a5dcc9c-651f-11ea-8f98-0a58647d1e29_015.ALI_NAZIK_QUZU_ADANA-10.90AZN.jpeg
+80,PakDad Nizami ,ŞIRNIYYAT,Kare Paxlava Fıstıqlı,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/1b4b5caa-64ab-11ea-938f-0a58647d1c12_004.KARE_PAXLAVA_-1_D_TI_-2.00AZN.jpeg
+81,PakDad Nizami ,İÇKİLƏR,"Fuse Tea® Manqo, 330 ml",,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/9d2e21a0-64a9-11ea-9ec0-0a58647cad38_Sar_k_z_t_bii_mineral_su_200ml.jpeg
+82,Tavuk Pilav,Wolt Specials,Köftə Seti,"1 ədəd köftə çörəkdə, 1 Coca-Cola® 300 ml, kartof fri (150 qr), ketçup, mayonez","5,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/89bfd914-492e-11eb-a840-02fb0752b65e_untitled.jpeg
+83,Tavuk Pilav,ŞORBALAR,Yayla Şorbası,"Qatıq, un, yumurta, düyü, limon suyu","2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/0b60a41a-60a1-11eb-ac42-665a9fb4ed2e_img_4882__1_.jpeg
+84,Tavuk Pilav,SALATLAR,Piyaz,"Ağ lobya, soğan, pomidor, cəfəri, yumurta","4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/17df28f8-6004-11eb-a510-d23266172fc4_img_4891.jpeg
+85,Tavuk Pilav,LANÇ MENU,Eksklüziv Lanç Menu Kiçik,"1 Tavuk Pilav 300 gr
+1 mərci şorbası 300 gr
+1 Coca-Cola © 300 ml
+1 turşu
+1 Çoban salatı
+1 limon 
+1 çörək","5,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/63d6a3f2-7aa9-11eb-b17f-ee4520ad9d3e_img_4921.jpeg
+86,Tavuk Pilav,FAST FOOD,Turşu Acı Bibər,200 qr,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/1ec5997a-6079-11eb-9f2b-1efa7f10fa94_img_4903.jpeg
+87,Tavuk Pilav,ÇİY KÖFTƏ,Çiy Köftə Dürüm,"Bulğur, soğan, sarımsaq, ədviyyatlar, cəfəri","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/671db8b4-33b1-11eb-8d46-6e199ed0f818_ciy_kofte_durum.jpeg
+88,Tavuk Pilav,PİLAV,Tavuk Sote Pilav,"Düyü, toyuq əti, yaşil və qırmızı bibər","5,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/38c5afb4-3580-11eb-9428-667e0dd54ebf_tavuk_sote_big_boy_gablashdirma.jpeg
+89,Tavuk Pilav,EKSKLUZİV QABLAŞDIRMA PİLAV (750 QR),Atom Pilav (750 qr),"Düyü, noxud, dana əti, toyuq əti, ağ lobya, yaşil və qırmızı bibər","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/985ed6f2-2f0a-11eb-a247-6ad388c26d47_atom_pilav.jpeg
+90,Tavuk Pilav,SETLƏR,Tələbə Seti🙋‍♂️,"Köftə lavaşda, kartof fri, Coca-Cola® 300 ml, ketçup, mayonez","6,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/716c6956-6079-11eb-b021-4a8f06fc098e_img_4942.jpeg
+91,Tavuk Pilav,DESSERTLƏR,Islak Kek,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/bcb44f4a-6002-11eb-bb92-ae6bb7e07504_img_4857.jpeg
+92,Tavuk Pilav,İÇKİLƏR,Milla® Ayran 300 ml,,"1,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbcfa6ebcd844a08269178d/f63a94ea-32e9-11eb-8c39-ee0c42a7057b_ayran_milla_375ml.jpeg
+93,Yoshi Sushi,SUŞİ ROLLAR,Black Star,"Hisə verilmiş ilan balığı, tempura krevet, krem-pendir, xiyar, unagi sous, crunch
+250 qr","19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/7cb71000-7680-11eb-ad0b-7e736590a5ad_black_star.jpeg
+94,Yoshi Sushi,İSTİ ROLLAR,Hamanishi,"Krevet, hisə verilmiş ilan balığı, panko, krem-pendir, avokado, yer fıstığı sousu
+280 qr","18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/b505e3b4-767b-11eb-8d04-8aaf149a574f_hamanishi.jpeg
+95,Yoshi Sushi,NİGİRİ,Unagi (1 ədəd),"Hisə verilmiş unagi balığı
+40 qr","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/990a1c14-71ff-11eb-bc72-a238fa930f46_unagi_nigiri.jpeg
+96,Yoshi Sushi,SAŞİMİ,Salmon Tataki,"Qızıl balıq, yerpənək, peonzo sousu
+80 qr","19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/bb3a1fc4-767c-11eb-848b-c6e203a4b100_salmon_tataki.jpeg
+97,Yoshi Sushi,ŞORBALAR,Miso Udon Salmon,"Qızıl balıq, udon əriştə, balıq bulyonu, miso pasta, yaşıl soğan
+350 qr","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/ea56db36-767b-11eb-830d-8aaf149a574f_miso_udon_salmon.jpeg
+98,Yoshi Sushi,SALATLAR,Tuna & Salmon Salad,"Ton balığı, qızıl balıq, xiyar, kök, qırmızı soğan, sous
+500 qr","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/0dceed1a-767c-11eb-83ba-12e160b675d4_tuna___salmon_salad.jpeg
+99,Yoshi Sushi,QƏLYANALTILAR,Crispy Salmon Strips,"Qızıl balıq, tartar sousu, panko
+180 qr","16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/57ffff8c-767c-11eb-8a6b-12e160b675d4_crispy_salmon_strips.jpeg
+100,Yoshi Sushi,TERİYAKİ,Chicken Teriyaki,"Toyuq əti, teriyaki sous. Qarnirlə (düyü)
+400 qr","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/e75ff614-767c-11eb-8282-8ac73db2a0b8_chicken_teriyaki.jpeg
+101,Yoshi Sushi,QARNİRLƏR,French Fries,120 qr,"4,00₼",
+102,Yoshi Sushi,JASMİN DÜYÜ,Düyü Ət ilə,"Jasmin düyüsü, can əti, tərəvəz, sous
+300 qr","13,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/1095a376-767d-11eb-9708-d2d3a224e4d8_rice__ham_s__.jpeg
+103,Yoshi Sushi,NOODLE,Əriştə Tuna ilə,"Əriştə, ton balığı, tərəvəz, sous
+450 qr","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/30eccf82-767d-11eb-8828-1ed2e4e611fb_noodle__ham_s__.jpeg
+104,Yoshi Sushi,İÇKİLƏR,Sprite® 330 ml,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d1250ad98e00673bd068f9a/8f97d26c-71fe-11eb-88fb-96aa05ed9fcd_sprite__330_ml_can.jpeg
+105,MADO Fountain Square,MENYUDA YENİ,Dietik Toyuq Kəsmikli Qarabaşaq ilə,"Göyərti, qarabaşaq, kəsmik, zeytun yağı, kahı aysberq, qırmızı lobya, çerri pomidoru, toyuq filesi","9,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/72d66dd8-7a72-11eb-b6b2-f61ec3b406ce_dietik_toyuq_k_smikli_qarabas_aq_il_.jpeg
+106,MADO Fountain Square,SƏHƏR YEMƏYİ,İsti Səhər Yemək,"Pomidor–yumurta, siqara börəyi, hellim pendiri, kaşar pendiri, göbələk, dilim kartof, sucuq","12,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/48efda5e-2efa-11eb-9273-8ebb8c721d15_i_sti_s_h_r_yem_yi.jpeg
+107,MADO Fountain Square,BİZNES LUNCH,Cümə,"- Brokkoli Şorbası (300 qr.) 
+- Tərəvəzli Fındıq Köftə (Ət köftə, göbələk, soğan, yaşıl bibər, pomidor, kartof. Yaşıl salat ilə verilir.)
+- Çörək","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/b6cbc248-a72f-11ea-93e3-0a5864793215_cu_m__nahar_menyusu_1.jpeg
+108,MADO Fountain Square,QƏLYANALTILAR,Kartof Fri Kubik,200 qr.,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/478932ce-acae-11ea-bc83-0a58647bccc8_kartof_fri_rissole_es.jpeg
+109,MADO Fountain Square,ŞORBALAR,Mərcimək Şorbası,"Qırmızı mərcimək, xüsusi sous, limon, qızardılmış çörək parçaları (suxarı), ədviyyat.","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/9df8c06c-c0e9-11ea-9e1e-3eb7a4270a5f_35.m_rcim_k_s_orbas_.jpeg
+110,MADO Fountain Square,SALATLAR,Steyk Salat,Yarım porsiya,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/6853abc8-c0eb-11ea-a62c-0e5aa6f4cadb_9.sezar_salat__krevet_il_.jpeg
+111,MADO Fountain Square,İSTİ YEMƏKLƏR (TOYUQ),Toyuq Ruleti,"Toyuq file, qoz, qırmızı soğan, nar əzməsi, nar, sumaq, pul bibər, kərə yağı, düyü plov","10,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/9f4a8fe4-2ef9-11eb-91b3-36a0e0ffcbe1_toyuq_ruleti.jpeg
+112,MADO Fountain Square,İSTİ YEMƏKLƏR (ƏT),Cız-Bız Köftə,"Izqara köftə, pomidor, acı bibər, sote olunmuş tərəvəz, kartof fri və ya düyü plovu","12,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/85c8dbc0-2ef9-11eb-b572-62039266571d_c_z_b_z_ko_ft_.jpeg
+113,MADO Fountain Square,PİZZALAR,Qarışıq Pizza,"Pizza xəmiri, salyami (salam), sucuk, xüsusi pizza sousu, qarğıdalı, göbələk, mozzarella pendiri, qara zeytun","13,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/d00cf9ca-bacb-11ea-8e8f-f6a8e4eecc49_qar_s__q_pizza.jpeg
+114,MADO Fountain Square,PASTA,Penne Arrabiatta,"Arrabiatta sousu, makaron, zeytun yağı, sarımsaq, parmezan pendiri, yaşıl reyhan","5,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/fce8e3a8-2ef9-11eb-8aa5-6a35fb869280_penne_arabiatta.jpeg
+115,MADO Fountain Square,BURGER VƏ SENDVİÇLƏR,Qarışıq Tost,"Tost çörəyi, salyami (salam), kaşar pendiri, sucuq, vetçina, kərə yağı.","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/d1381ca2-c0ee-11ea-bbae-524c4d1dd7dc_58.qar_s__q_tost.jpeg
+116,MADO Fountain Square,KABABLAR,Tərəvəzli Izqara Kabab,"Izqara toyuq əti, yaşıl bibər, qırmızı bibər, badımcan, qabaq, kartof, pul bibər, göyərti","9,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/b8fb8f92-2ef9-11eb-8d02-f2702407eced_t_r_v_zli_i_zqara_kabab.jpeg
+117,MADO Fountain Square,XƏMİR YEMƏKLƏR,Mantı,"Mantı, pomidor sousu, kəklik otu, sumax, qatıq","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/34b7cd3a-2efa-11eb-95ff-1a6a00f37c08_mant_.jpeg
+118,MADO Fountain Square,PLOV,Fisincan Plov,"Dana əti, qoz, nar sousu, soğan, düyü plovu, kərə yağı","12,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/f9b5e4ac-2ef8-11eb-87b1-ce158cb040af_fisincan_plov.jpeg
+119,MADO Fountain Square,KADAYIF,Fıstıqlı Qaymaqlı Burma Kadayıf,Dondurmalı və ya Qaymaq ilə,"10,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/b2773230-893a-11ea-803a-0a5864677349_2.f_st_ql__qaymaql__burma_kaday_f.jpeg
+120,MADO Fountain Square,TORTLAR,Şokoladlı Truffel Tortu,,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/c6ca0102-c127-11ea-8164-2a13467afbf9_16.s_okaladl__truffel_tort.jpeg
+121,MADO Fountain Square,VAFLİLƏR,Tünd  Şokoladlı Waffle,1 porsiya,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/7a68e946-893b-11ea-8703-0a5864675573_su_dlu___v__ya_tu_nd__s_okoladl__waffle.jpeg
+122,MADO Fountain Square,DONDURMA,Souslu Kornet,,"1,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/44aa6b36-c0ef-11ea-8c15-868f95924870_1.dondurma_c_es_idl_ri.jpeg
+123,MADO Fountain Square,ŞİRNİYYATLAR,Künəfə,"Künəfə, sadə dondurma, şərbət","18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/6172e032-bacc-11ea-8e49-e6576d2c0595_ku_n_f_.jpeg
+124,MADO Fountain Square,FIRIN MƏHSULLARI,Səpmə Qoğal,1 əd.,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/de5a163c-c0f9-11ea-8094-5231a538289c_38.s_pm__qog_al.jpeg
+125,MADO Fountain Square,QURABİYƏLƏR,Ərikli Boxça,250 gr.,"6,25₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/2d5b6dc4-c12e-11ea-836a-febb5c53af87_27._rikli_boxc_a.jpeg
+126,MADO Fountain Square,PAXLAVA,Havuç Dilim Paxlava,250 gr.,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ea6c2f6ac6786ac1972cccf/0584fb34-89e9-11ea-93af-0a5864677351_12.havuc__dilim_paxlava.jpeg
+127,MADO Fountain Square,İSTİ İÇKİLƏR,Dondurmalı İsti Şokolad (260 ml),"Südlü isti şokolad, zövqə görə bir top dondurma, kedi dili (qurabiyə) (yalnız qış aylarında servis olunur)","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/726d40ee-3605-11eb-ac6d-bea585c18b53_green_and_white_gaming_youtube_channel_art_124.jpeg
+128,MADO Fountain Square,KOKTEYLLƏR,Maksimum Güc (250 ml),"Kivi, alma və ananas nektarı","5,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/f238c750-3603-11eb-9039-7274c2ae3f4a_oreolu_buzlu_q_hv_.jpeg
+129,MADO Fountain Square,SMUZİ ,Meşə Meyvəli Smuzi (250 ml),"Portağal şirəsi, moruqlu, qaratutlu dondurma, buz","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/1884807a-3604-11eb-b896-9eaf418d3ec0_mes___meyv_li_smuzi.jpeg
+130,MADO Fountain Square,MİLKŞEYK,Oreolu Milkşeyk (300 ml),"Fantaziya dondurma, oreo, süd və buz","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/d6678a20-3603-11eb-9661-deb111a9b386_oreolu_milks_eyk.jpeg
+131,MADO Fountain Square,TƏZƏ SIXILMIŞ ŞİRƏLƏR,Təzə Sıxılmış Qarışıq Meyvə Şirəsi (250 ml),Portağal və Qreypfrut,"8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/9194d8c6-3603-11eb-b092-d65bb1ade897_green_and_white_gaming_youtube_channel_art_119.jpeg
+132,MADO Fountain Square,ŞİRƏLƏR,Qarışıq Meyvə Şirəsi (300 ml),,"3,50₼",
+133,MADO Fountain Square,İÇKİLƏR,Qazlı Su (330 ml),,"3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ec392469810c03b8aa8d7f7/213cd5ca-3607-11eb-a068-121edd277aaa_pepsi_330_ml__1_.jpeg
+134,Livan Shaurma,ŞORBALAR,Mərci Şorbası,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fa4f2bc014c65d3233ee73a/9a880d70-2002-11eb-8f98-0a9373af31dc_26.merci_ve_gunun_corbalari_2.50azn.jpeg
+135,Livan Shaurma,QƏLYANALTILAR,Sütlaç,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fa4f2bc014c65d3233ee73a/c647f3ac-2003-11eb-a37e-9225bb7e2251_30.sudlac_3azn.jpeg
+136,Livan Shaurma,KUMPİR,Shaurma Kumpir,"Kaşar pendir, kərə yağı, dilim zeytun, qarğıdalı, xiyar turşusu, shaurmalı","7,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fa4f2bc014c65d3233ee73a/0a278342-2015-11eb-b6e3-067d0cfc26a9_3.saurma_kumpir_7.90azn.jpeg
+137,Livan Shaurma,ŞAURMA,Şaurma Böyük (Lavaş),,"3,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fa4f2bc014c65d3233ee73a/0d69ddfa-2008-11eb-9881-46f21b86e234_11.saurma_lavasda__kicik__2.90azn__boyuk__3.90azn.jpeg
+138,Livan Shaurma,SALATLAR,Cuğundur Salatı,,"3,00₼",
+139,Livan Shaurma,KOMBO MENYU,Sadə Kumpir + Fri + İçki,,"7,90₼",
+140,Livan Shaurma,İÇKİLƏR,Bonaqua®500 ml,,"1,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fa4f2bc014c65d3233ee73a/70054714-2004-11eb-b60e-46f21b86e234_bonaqua_500_ml.jpeg
+141,The House Cafe,TOSTLAR,Kaşar Pendiri və Sucuk ilə Tost,"Bişmiş çörək, sucuk, evdə hazırlanmış pomidor sousu, təzə pomidor
+","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/a391d96c-398b-11eb-a49c-76949772953e_cut_kasarli_toast.jpeg
+142,The House Cafe,ŞORBALAR,Qış Şorbası,"Ispanaq, balqabaq, kərəviz, yerkökü, kartof, bibər, kinoa, buğda, noxud, meksikan lobya, ədviyyatlı toyuq bulyonu, pesto sousu, tost
+","6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/6c52fc2a-3a11-11eb-96dc-129300929854_5.jpeg
+143,The House Cafe,QƏLYANALTILAR,Toyuq Naqqetsları Asiyasayağı,"Şirin çili sousu, pesto, kişniş, meksika bibəri, təzə nanə
+","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/73049326-3a11-11eb-b8da-d6acaafcbbf1_6.jpeg
+144,The House Cafe,SALATLAR,Barbekü Toyuq ilə Salat,,"19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/c91b8cb8-398c-11eb-8df5-164b269ee89c_chop_shish_salat.jpeg
+145,The House Cafe,BURQERLƏR,Klab Sendviç,"Izgara toyuq döş əti, kaşar pendiri, omlet, kahı, pomidor, turşu xiyar, xardal, sezar sousu, kartof fri
+","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/0a4912bc-398f-11eb-865c-26c9c4a2abd7_club_sandwich.jpeg
+146,The House Cafe,PASTA,Əriştə,"Rəngli bibər, göbələk, yaşıl soğan, brokoli, yaşıl lobya, ispanaq, şirin turş sousu (tərəvəz, toyuq və ya mal əti)
+","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/23b9c692-39fd-11eb-bb1b-9a1f2df216d6_noodles.jpeg
+147,The House Cafe,GÖZLƏMƏ,Gözləmə,"Göyərti və pendir ilə
+","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/9a29f580-39fe-11eb-b243-f2bb04bad106_untitled_design.jpeg
+148,The House Cafe,BURRİTO,Burrito Toyuq ilə,"Tortilla, rəngli bibər, mayonez və kahı ilə sous, daha az ədviyyatlı çipotle bibəri ilə qatıq, evdə hazırlanan ədviyyatlı sous, kartof fri
+","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/b4833220-39fe-11eb-8529-1a1ff80a820f_toyuqlu_burrito.jpeg
+149,The House Cafe,ƏSAS YEMƏKLƏR,Acılı Izgara Qızılbalıq,"Sote ispanaq, kartof, kekik və rozmarinlı pesto sousu
+","26,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/4261e6c2-39ff-11eb-a278-26ca16f2e0ef_teze_edviyyatli_qril_qizil_baliq.jpeg
+150,The House Cafe,PİZZA,The House Pizza,"The House burger kotleti, çeddar pendiri, göbələk, turşu xiyar, qırmızı soğan, kəklik, evsayağı ədviyyatlı sous
+","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/615444aa-3a11-11eb-8fb4-3aa66eac292f_1.jpeg
+151,The House Cafe,QƏHVƏ,Flat White 200 ml,,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/c1b97524-3ae1-11eb-8b36-a681d863a075_green_and_white_gaming_youtube_channel_art_133.jpeg
+152,The House Cafe,İÇKİLƏR,Sprite® 330 ml,,"4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcfd21f4eff970d84d707d0/caa1cedc-3ae3-11eb-8149-8eb698cf26dc_sprite__330_ml_can__1_.jpeg
+153,The House Cafe,TƏZƏ SIXILMIŞ ŞİRƏLƏR,Təzə Sıxılmış Kök Şirəsi 330 ml,,"9,00₼",
+154,The House Cafe,SMUZİ VƏ DETOKS,Detox Rabbit 330 ml,,"10,00₼",
+155,The House Cafe,THE HOUSE XÜSUSİ İÇKİLƏR,THC Çiyələkli Bum 330 ml,,"8,00₼",
+156,The House Cafe,İÇKİLƏR,Sirab® Qazlı Su,,"3,50₼",
+157,The House Cafe,PİVƏ,Heineken® 330 ml,,"8,00₼",
+158,Pizza da Roma,PIZZA,Kalzone Bolonyeze,"Tomat sousu, mozarella, parmezan, bolonyeze","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e8c497ce60b7ebca5ce5b03/84aeedbe-7b13-11ea-87bb-0a5864651019_img_4303.jpeg
+159,Pizza da Roma,PASTA,Penne Arrabbiata,,"12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/510ff638-78bb-11ea-9abd-0a5864642112_penne_arabiata.jpeg
+160,Pizza da Roma,BURGERLƏR,Toyuq Çubuqları Fri Kartofu ilə,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/09b88344-78bc-11ea-8348-0a5864648e0c_chicken.jpeg
+161,Pizza da Roma,SALATLAR,Caprese Salat,"Buffalo mozzarella, pesto sous, pomidor, rukkola","16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e8c497ce60b7ebca5ce5b03/01625686-99e4-11ea-a054-0a586472e111_caprese_salad.jpeg
+162,Pizza da Roma,ŞORBALAR,Göbələkli Krem Şorbası,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/76eefd3a-78bc-11ea-a365-0a5864647b10_mushroom_soup.jpeg
+163,Pizza da Roma,SENDVİÇLƏR,Sezar Roll,"Tartila lavaş, parmesan, aysberq, pomidor, sezar sousu, toyuq filesi","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e8c497ce60b7ebca5ce5b03/92adc394-7975-11ea-8942-0a586464881f_cease_roll.jpeg
+164,Pizza da Roma,GARNIR,Kartof Fri,,"4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e8c497ce60b7ebca5ce5b03/0466d4d6-d0d2-11ea-b1a9-aa862495400b_kartoshka_fri_4_azn.jpeg
+165,Pizza da Roma,DESERTLƏR,Crostata,,"9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e8c497ce60b7ebca5ce5b03/31341550-7989-11ea-8bcb-0a5864642128_crostata.jpeg
+166,Pizza da Roma,İÇKİLƏR,Sprite® 330 ml,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/171b7f0c-18f2-11ea-9b70-0a586469a85d_Sprite__330_ml_can.jpeg
+167,O’Kööz Grill and Сhill,KÖZ DÖNƏR,Plov Dönər,,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/f79010b6-766b-11eb-babc-12f6954160e0_i_sk_nd_r_do_n_r.jpeg
+168,O’Kööz Grill and Сhill,ŞORBALAR,Göbələk Şorbası,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/57fa7afe-766c-11eb-97f3-c24b3e503fc3_go_b_l_k_supu.jpeg
+169,O’Kööz Grill and Сhill,SALATLAR,Ət Salatı,,"13,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/92d77e42-766c-11eb-ad63-62134eaf560b_yunan_salat_.jpeg
+170,O’Kööz Grill and Сhill,BURGER & SENDVİÇLƏR,Black Meat Burger,,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/e60b92d8-766c-11eb-9490-9e16cee076b9_double_cheese_burger.jpeg
+171,O’Kööz Grill and Сhill,ƏSAS YEMƏKLƏR,Toyuq Çöp Şiş,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/4cdd485a-7670-11eb-bb6c-9e16cee076b9_c_o_p_s_is__toyuq.jpeg
+172,O’Kööz Grill and Сhill,PİDE & LAHMACUN,Sadə Lahmacun,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/abde7608-7670-11eb-9748-9e8c12ade52c_sad__lahmacun.jpeg
+173,O’Kööz Grill and Сhill,KÖFTƏ & TANTUNİ,Double Tantuni,,"7,00₼",
+174,O’Kööz Grill and Сhill,PİZZA,Pizza Pepperoni,,"7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/1c0afcc6-7671-11eb-875a-fe032ffa7545_pepperoni_pizza.jpeg
+175,O’Kööz Grill and Сhill,ASİYA MENYUSU,Əriştə Dəniz Məhsulları ilə,,"14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/4bc9c07a-7674-11eb-8be8-9e16cee076b9_toyuq_tempura_salat.jpeg
+176,O’Kööz Grill and Сhill,QƏLYANALTI & QARNİRLƏR,Düyü,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/13894b00-766e-11eb-a9f9-9e16cee076b9_toyuq_naggets.jpeg
+177,O’Kööz Grill and Сhill,DESSERTLƏR,Çərəz,,"5,00₼",
+178,O’Kööz Grill and Сhill,İÇKİLƏR,Təbii Meyvə Şirəsi,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/6035f57e92ad0a7acf76a0ae/19b70664-7675-11eb-83bb-12f6954160e0_sprite__330_ml_can.jpeg
+179,Prive Steak Gallery,Wolt Specials,Burger Kombo Menu,Burger + Kartof Fri + İçki,"13,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/634261ca-e3b3-11ea-bc30-7e1332d92e01_cheddar_burger_menu.jpeg
+180,Prive Steak Gallery,MƏZƏLƏR,Zeytun yağlı Yarpaq Sarması,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/ad427b40-d3d0-11ea-af83-42a5e5fdc1f1_zeytunyag_l__yaprak_sarma.jpeg
+181,Prive Steak Gallery,SALATLAR,Sezar Salatı,"Aysberq kələmi, pomidor, quru çörək, toyuq filesi, parmesan pendiri","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/1c42ad7a-d3f0-11ea-9ad8-86d582ce220b_sezar_salat_.jpeg
+182,Prive Steak Gallery,BURGERLƏR,Spagetti Burger,"İncə dilimlənmiş dana əti, çeddar pendiri, və kartof qızartması","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/96a99bfa-d3f0-11ea-aab9-e2963ea5fbb2_spagetti_burger.jpeg
+183,Prive Steak Gallery,"SUCUK, SOSIS VƏ KÖFTƏLƏR",Prive Kangal Sucuk Izqarada,300 gr,"16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/3bf70796-d3f1-11ea-8c07-4e20a957338d_prive_sucuk_izqara.jpeg
+184,Prive Steak Gallery,GARNIR VƏ ISTI QƏLYANALTILAR,Fındıq Lahmacun,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/d399498e-d3fa-11ea-a46d-4ab6791401f3_f_nd_k_lahmacun.jpeg
+185,Prive Steak Gallery,İZQARADA ƏT ÇEŞIDLƏRI,Quzu Bel,"250 gr, Pomidor və bibərlə təqdim olunur","18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/ee88f0d6-edd2-11ea-8026-6a6673290728_quzu_kus_l_m_.jpeg
+186,Prive Steak Gallery,STEYKLƏR,Tomahawk Steak (yerli),1100 - 1200 gr Qaymaqlı ıspanaq və göbələk sosu ilə təqdim olunur,"120,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/8713e586-d3f7-11ea-98ef-9663f79435d3_tomahawk_steak.jpeg
+187,Prive Steak Gallery,ŞİRNİYYAT,Fıstıqlı Kadayıf,1 ədəd,"3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/c190e55c-d3f6-11ea-b2fa-b2b89712d2eb_f_st_ql__dolama.jpeg
+188,Prive Steak Gallery,İÇKİLƏR,Sarıkız® 200 ml,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2515443bdba4dffa19ed69/7c65fc5e-d3f3-11ea-aff2-12d2df3dbc3f_s_alqam_suyu.jpeg
+189,Prive Shop,PRIVE QƏSSAB,Basdırma,500 qr,"39,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f2d18598e6e5da60b538ab5/fbc75aca-d8a2-11ea-aab1-a6402a7e59f2_basd_rma.jpeg
+190,Prive Shop,TÜRK PAXLAVALARI ,Su Börəyi,500 gr,"8,15₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d077b7cd4fb39257c4cb8c0/5a42be16-d8a6-11ea-9fe5-12b3f343982c_su_bo_reyi.jpeg
+191,Prive Shop,ŞARKUTERI,City Farm Organic Çia Toxumu 250 qr,,"23,39₼",
+192,Merkez Lahmacun,Wolt Specials,Iskəndər Kombo + Coca-Cola® 330 ml 🤩,Iskender + Mərcimək şorbasi + Coca-Cola® 330 ml,"12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5db942a5884f6f613389052a/d99fab78-3ddd-11eb-8b4c-1eb5d53d6395_merkez_lahmacun_1000x568.jpeg
+193,Merkez Lahmacun,SƏHƏR YEMƏYİ,Sade Omlet,Yumurta,"4,50₼",
+194,Merkez Lahmacun,ŞORBALAR,Yayla Şorbası,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/4952b352-fef6-11e9-b382-0a5864651608_yayla.jpeg
+195,Merkez Lahmacun,SALAT & MƏZƏLƏR,Çoban Salatı,"Pomidor, xiyar, cəfəri, yağ, limon sousu","3,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/c48a1f46-fef7-11e9-ba20-0a586464bb6a_coban_salat.jpeg
+196,Merkez Lahmacun,QƏLYANALTI,Kəndsayağı Fri,"Kəndsayağı kartof, duz, ketçup, mayonez","3,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/a84699c6-fef8-11e9-806b-0a586464bb6a_kend_sayagi_kartof.jpeg
+197,Merkez Lahmacun,DÖNƏRLƏR,Hatay Usulu (Toyuq),"Toyuq əti, mayonez, hatay sousu, kahı, pomidor, turşu xiyar, kartof, tomat sousu","3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/916ea940-fef9-11e9-a446-0a5864601838_hatoy_ulusu.jpeg
+198,Merkez Lahmacun,KABABLAR,Toyuq Qanad,"Toyuq qanadı, yağ, duz, istiot","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/b4ad787c-fefa-11e9-8924-0a5864658103_toyuq_shish_kabab.jpeg
+199,Merkez Lahmacun,ƏT YEMƏKLƏRİ,Quru Fasülye,,"7,50₼",
+200,Merkez Lahmacun,TOYUQ YEMƏKLƏRİ,Sac Qovurma (2 nəfərlik),"Toyuq əti, bibər, soğan, göbələk, duz, istiot, kərə yağı, cəfəri, düyü","18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/37b006c6-fefc-11e9-b87f-0a586464b892_qobelek_souslu_toyuq_izgara.jpeg
+201,Merkez Lahmacun,FIRIN YEMƏKLƏRİ,Pendirli Pide,Mozzarella pendiri,"7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/10d8337e-fefd-11e9-a984-0a586464ee44_pendirli_pide.jpeg
+202,Merkez Lahmacun,PİZZALAR,Pizza Tuna,"Pizza sousu, mozarella pendiri, tuna balığı,qırmızı soğan, bibər","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/0dd9e0ac-feec-11e9-b687-0a586464ee44_turka_pizza.jpeg
+203,Merkez Lahmacun,PASTALAR,Penne Arabiata,"Arabiata sousu, makaron, parmezan pendiri","6,00₼",
+204,Merkez Lahmacun,ŞİRNİYYATLAR,Paxlava,,"3,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/9d84baa8-fefe-11e9-82b2-0a586464b892_paxlava.jpeg
+205,Merkez Lahmacun,İÇKİLƏR,Sirab® 500 ml,,"1,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/d4df0696-06d0-11ea-8c0c-0a586466a01c_Sirab__500ml_.jpeg
+206,Sweet Levantine,KÜNƏFƏ,6-sı Bərabər,"Klassik, ceviz-i hakani, bezmi alem, badem sultan, fıstıkzade, billuriye, qoz tozu
+4 nəfərlik","35,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/ab8c917e-182b-11eb-b335-9281666911f7_6_s__beraber.jpeg
+207,Sweet Levantine,KATMER,Sweet Special,"Katmer xəmiri, püstə tozu, şərbət, kərə yağı, nutella, qoz tozu","21,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/db597856-17a7-11eb-b4e3-2eb48582eb1b_sweet_special.jpeg
+208,Sweet Levantine,PAXLAVA,Püstə Sarma,"Paxlava yuxası, fıstıq tozu, şərbət, kərə yağı
+- 3 ədəd","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/cbd98dde-17a8-11eb-a9ae-4609648e0db5_f_st_k_sarma.jpeg
+209,Sweet Levantine,VAFLİ,Meyvəli Pancake,"Pancake xəmiri, banan, çiyələk, südlü şokolad, ağ şokolad, püstə tozu, damla şokolad
+","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/7be321ba-1784-11eb-81e7-7e4be3cd61b8_pancake.jpeg
+210,Sweet Levantine,SÜDLÜ ŞİRNİYYATLAR,Qazandibi,"Süd, toyuğun təzə döş əti, püstə tozu, fındıq qırığı, şəkər","5,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/aaf47682-17a9-11eb-bb99-32c59b5239a0_kazandibi.jpeg
+211,Sweet Levantine,DONDURMA,Fıstıq Əzməli Dondurma,,"15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/f53b4584-1783-11eb-ae34-1a04d6c166a1_f_st_k_ezmeli_dondurma.jpeg
+212,Sweet Levantine,UN MƏMULATLARI,Sucuklu Tost,"Pomidor, xiyar","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/519a9ab0-17ab-11eb-8206-4609648e0db5_dana_jambonlu_sandvic_.jpeg
+213,Sweet Levantine,QARNİR,Kartof Qızartması,,"3,50₼",
+214,Sweet Levantine,SOYUQ İÇKİLƏR,Cappy® Meyvə Şirəsi 500 ml,"Alma, şaftalı, albalı, portağal","3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f903387cb90a32c0c424330/275c3f80-1835-11eb-b635-d24cdd22b348_cappy_500_ml.jpeg
+215,Nutelland,KREPLƏR,Qarışıq Krep,"4 ədəd krep, nutella, kinder və ağ şokoladlar, çiyələk, banan, kivi, portağal","17,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/3b532154-2d78-11eb-9d67-2a08ea5717d6_img_4701.jpeg
+216,Nutelland,VAFLİ,Qarışıq Super Vafli,"2 porsiya vafli (4 ədəd), nutella, kinder və ağ şokoladlar, çiyələk, banan, kivi, 1 top dondurma","14,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/891af6aa-2d78-11eb-9b08-865333053cb9_img_4743.jpeg
+217,Nutelland,PANCAKE,Qarışıq Super Pankeyk,"4 ədəd pancake, nutella, kinder və ağ şokoladlar, çiyələk, banan, kivi, 1 top dondurma","14,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/9b1786de-2d78-11eb-b31a-769f87074acf_img_4766.jpeg
+218,Nutelland,EKLER,Ağ Şokoaldlı Ekler,Ekler və ağ şokolad,"4,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/50ca03ac-2d75-11eb-b8bf-eecbceeee1fb_7q9c1017.jpeg
+219,Nutelland,PROFİTEROL,Oreo Topları,"8 ədəd profiterol, oreo və ağ şokoladı","8,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/f9cc9a50-2d75-11eb-927d-eae735c3aa11_7q9c0918.jpeg
+220,Nutelland,PİZZA & FETTUÇİNİ,Ağ Şokolad və Meyvəli Pizza,"Kivi, banan, çiyələk və ağ şokolad","15,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/f3f7adf2-2d77-11eb-84ec-1aa930cdd37a_img_4557.jpeg
+221,Nutelland,BRAUNİ,Magnumlu Brauni,"Brauni, magnum dondurması, nutella şokoladı","10,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/3e99989a-2d76-11eb-9319-c2d72726f82c_7q9c1054.jpeg
+222,Nutelland,TORT,Nutellalı Profiterol Tortu,İçərisi mini profiterollarla dolu nutellalı tort,"7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/1fea1d7a-2d76-11eb-94f5-4eef57b1970a_7q9c1029.jpeg
+223,Nutelland,DESSERTLƏR,Tiramisu,,"7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/e8013834-2d76-11eb-928a-1aa930cdd37a_img_4668.jpeg
+224,Nutelland,İSTİ ŞOKOLAD,Snickersli İsti Şokolad,Birlikdə qaynadılmış süd və snickers,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/93f78aea-2d76-11eb-b7c8-328249703427_7q9c0983.jpeg
+225,Nutelland,MİLKŞEYKLƏR,Çiyələkli Şeyk,"Süd, dondurma, çiyələk, çiyələkli sirop","6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/3d8b0dca-2d77-11eb-bcc0-c200af493497_img_20191023_wa0014.jpeg
+226,Nutelland,LİMONAD və İCE TEA,Ev Üsulu İce Tea 500 ml,"Buz, çay, sirop, su
+Şaftalı, manqo, çiyələk, alma, qarışıq","5,60₼",
+227,Nutelland,TƏZƏ SIXILMIŞ ŞİRƏLƏR,Təzə Sıxılmış Portağal Şirəsi,,"5,50₼",
+228,Nutelland,İÇKİLƏR,Redbull® 250 ml,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fbb724da30adde9e7bcc679/0c3fa316-2d7c-11eb-9c6d-961a2c4aa826_red_bull_250_ml_new.jpeg
+229,Yarpaq Doner,DÖNƏRLƏR,İskəndər Dönəri Ət ilə + Coca-Cola®,"Ət, qızardılmış çörək, pomidor, bibər, qatıq, yarpaq sousu, Coca-Cola® 500ml","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/5ddcb0e0-1f32-11eb-bd87-36520ddcfae6_tombik_et.jpeg
+230,Yarpaq Doner,SET MENU,Uşaq Seti #2,"Burget ət ilə, kartof fri 200 qr., Cappy® 200 ml","5,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/98607ea2-f40f-11ea-bbd5-72381547419f_usaq_menu.jpeg
+231,Yarpaq Doner,ŞAURMA,Şaurma,"Toyuq, turşu xiyar, kartof fri, şaurma sous","2,90₼",
+232,Yarpaq Doner,BURGERLƏR VƏ SENDVİÇLƏR 🍔,Hot-Dog,,"2,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/b176d35a-f40f-11ea-ad78-b6393fe8c84d_cikenburger.jpeg
+233,Yarpaq Doner,TOYUQ YEMƏKLƏRİ 🍗,Toyuq Filesi (9 əd.),,"8,40₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/36de9f4e-f412-11ea-a1e0-7e31e3265a07_toyuq_file.jpeg
+234,Yarpaq Doner,SOUSLAR,Barbekyu Sous,,"0,70₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/cce1c8d2-f411-11ea-a5c5-7acb69ea4adb_barbekyu.jpeg
+235,Yarpaq Doner,QARNİRLƏR,Kəndsayağı Kartof,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/f1cbebe6-f411-11ea-ad72-c64d3fdf40b8_kend_sayagi.jpeg
+236,Yarpaq Doner,ŞORBALAR 🍜,Tomat Supu,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/0a1749de-f412-11ea-8617-5a1fb980249a_tamat_supu.jpeg
+237,Yarpaq Doner,İÇKİLƏR 🥤,"Sprite®, 330 ml (şüşə)",,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f4cbd3544fb15c94c7e8ea2/e36d82d4-1f32-11eb-84a2-d261a665f3a1_sprite__glass_250ml.jpeg
+238,Cadoro,İSTİ İÇKİLƏR,İsti Şokolad,240 / 300 ml,"4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/43164d66-39ea-11eb-b0ec-6667caa2cc45_i_sti_ic_kil_r_______________hot_drinks.jpeg
+239,Cadoro,SOYUQ İÇKİLƏR,Iced Latte,300 / 500 ml,"4,50₼",
+240,Cadoro,ÇAY,Yaşıl Çay,300 ml,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/349cec2a-39ec-11eb-839c-befd286b2d1c_c_ay____tea.jpeg
+241,Cadoro,DESSERTLƏR,Fondento 1 kq,"Şokolad ilə nəmləndirilmiş kakaolu biskvit, bişmiş krem, Belçika şokolad","22,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/c2f1c760-39ed-11eb-907c-2a9aa4d052a2_ekler.jpeg
+242,Cadoro,PİROQ,Krostata,"Şəkırli xəmir, bişmiş xamalı krem, qaraqat","9,90₼",
+243,Cadoro,RULET,Isveç Rulet,"Şokolad ilə nəmləndirilmiş şokoladlı biskvit, cem, qaymaq","12,90₼",
+244,Cadoro,PANCAKE,Pancake Meyvə ilə,Meyvə və Belçika şokoladlı pankeyk,"4,30₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/e219b34a-39ee-11eb-af6e-a6b336029ca7_pancake_meyv__il_.jpeg
+245,Cadoro,KRUASSAN,Kruassan Şokoladlı,,"2,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/0a56511a-39ef-11eb-8ea2-226e7058b1d3_kruasan.jpeg
+246,Cadoro,DONATS,Donats Ağ Qlazur ilə,,"1,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/6687e26e-39ef-11eb-9bdc-26370fd08c01_donats.jpeg
+247,Cadoro,DONDURMA,18 top,Xalis çəki ≈ 1200 qr,"32,00₼",
+248,Cadoro,ŞOKOLADLAR,Trüfel,"Trüfel - keçmək mümkün olmayan bir şokoladdır. Bu kiçik konfetin dadı sizi Belçikaya apara bilər.
+
+100 qr","0,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3a2be1aac483f62fe146e1/22dd35fe-39f0-11eb-8fe5-3ac22256e14f_trufel.jpeg
+249,Happy Moon's,MAKARONLAR,Noodle Tərəvəzli,"Brokkoli, rəngli bibərlər, kök, təzə soğan, küncüt, kabaçok, göbələk, noodle sousu","11,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcd0e9f2db93658ea10ded8/89455a34-388c-11eb-b0bb-e6bd6d42b66f_kayseri_mant_s_.jpeg
+250,Happy Moon's,PIZZALAR,Göbələkli Pizza,"Mozzarella, pomidor sousu, göbələk, pomidor","13,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcd0e9f2db93658ea10ded8/d48d8840-388c-11eb-b21d-d2a513615e72_happy_pizza.jpeg
+251,Happy Moon's,SALATLAR,Cajun Toyuq Salatı,"Cajun ədviyyatı, qarğıdalı, çedar pendirində hazırlanmış toyuq parçaları, pomidor, xiyar, rəngli bibər və bal xardal sousu ","13,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcd0e9f2db93658ea10ded8/2b3d06de-388d-11eb-8e69-8e1a73f70d27_cajun_chicken_salata.jpeg
+252,Happy Moon's,BURGERLƏR,Meksika Burgeri,"Burger kotleti (180 qr), çedder pendir, jalapeno, acılı sous, pomidor, xiyar, tavada kartof, miks salat","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcd0e9f2db93658ea10ded8/ccd0bb08-388d-11eb-a57f-0a8fca40210b_mexican_burger.jpeg
+253,Happy Moon's,"DÜRÜM, SENDVİÇ & CREPES",Cheddar və Ət ilə Dürüm,"Sote edilmiş tikə dilimləri, göbələklər, çedar pendiri, soğan, rəngli bibər, qızardılmış kartof, pomidor, xiyar","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcd0e9f2db93658ea10ded8/62fcc134-388f-11eb-9519-7a31d7cd8aed_ko_fteli_du_ru_m.jpeg
+254,Happy Moon's,BAŞLANĞICLAR,Toyuq və Göbələkli Krep,"Toyuq, göbələk, beşamel sous, qaymaq, kaşar pendiri, miks salat","13,00₼",
+255,Happy Moon's,ANA YEMƏKLƏR,Qızıl Balıq Qrildə,"Qızıl balıq qrildə, tartar sousu, qırmızı soğan, buğda risotto, göyərti","26,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fcd0e9f2db93658ea10ded8/95ab050e-3890-11eb-b8a0-c6917fb7d618_arizona_chicken.jpeg
+256,Happy Moon's,İÇKİLƏR,Premium Qazlı Su (330 ml),,"4,00₼",
+257,Happy Moon's,DESERTLƏR,Tiramisu,,"7,00₼",
+258,Kinder Ville Cafe,DESSERTS,Çiyələkli Tiramisu,"Labne, şəkər tozu, espresso(kofe), qaymaq, vanil, savoyardi, belçika şokoladı, çiyələk","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fd4f130122f1ab5360368e3/d3de2350-3ca6-11eb-861d-3ecc7c113e2e_white__grey_and_blue_browser_nerdy_birthday_card__4_.jpeg
+259,Kinder Ville Cafe,FONDUE,Kivi Fondyu,"Əridilmiş kinder şokoladı (80qr), kivi (120qr)","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fd4f130122f1ab5360368e3/ad54bfbe-3dfa-11eb-89f9-32ab5f778047_image00015.jpeg
+260,Kinder Ville Cafe,PANCAKES,Çiyələkli Pankeyk,"Un, kərə yağı, şəkər tozu, vanil, yumurta, süd, çiyələk, belçika şokoladı, dondurma, konus","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fd4f130122f1ab5360368e3/0ec277ec-3ca6-11eb-966e-b23eb0d1c236_a18ea334_5609_4a60_9ff3_ab3f398b8e7c.jpeg
+261,Kinder Ville Cafe,DONER (CREPE),Kinder Dönər,"Un, kərə yağı, şəkər tozu, vanil, yumurta, süd, banan, çiyələk, belçika şokoladı, ağ belçika şokoladı, kinder şokoladı, dondurma, qaymaq","6,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fd4f130122f1ab5360368e3/91643362-3ca5-11eb-8117-f22081913507__mg_5888.jpeg
+262,Kinder Ville Cafe,WAFFLES,İki Qat Vafli Arasında Dondurma ilə,"Un, kərə yağı, şəkər tozu, vanil, yumurta, süd, çiyələk və ya kivi, banan və ya portağal, belçika şokoladı, ağ belçika şokoladı, kinder şokoladı, dondurma(250qr), qaymaq","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fd4f130122f1ab5360368e3/5c9d904c-3ca5-11eb-af1b-22bb86116591__mg_5925.jpeg
+263,Mushu,SUŞİ ROLLAR,Bonito Roll,"Pendir, xiyar, qaynadılmış krevet, bonita","15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/6757eaa0-98d6-11ea-a1ad-0a5864721d0e_whatsapp_image_2020_05_16_at_14.28.47__1_.jpeg
+264,Mushu,İSTİ ROLLAR,Hot Kaliforniya,"Pendir, qaynadılmış krevet, küncüt","16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/e0da6f1c-9898-11ea-aa41-0a5864715d0f_img_2461.jpeg
+265,Mushu,MAKİ,Crab Maki,"Pendir, xiyar, crab əti","7,00₼",
+266,Mushu,NOODLES,Noodle Beef,,"16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/00ade674-98d6-11ea-a4c8-0a586471051c_whatsapp_image_2020_05_16_at_14.35.34__1_.jpeg
+267,Mushu,NİGİRİ,Smoked Salmon Nigiri,"Smoked salmon, düyü, küncüt","6,00₼",
+268,Mushu,ŞORBALAR,Tom Yam Şorbası,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/4f559a7a-98d5-11ea-8053-0a586471051e_whatsapp_image_2020_05_16_at_14.35.35.jpeg
+269,Mushu,SALATLAR,Sezar Salatı,Salmon ilə,"14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/a7d7a7ce-98d5-11ea-aef5-0a586471051c_whatsapp_image_2020_05_16_at_14.35.36.jpeg
+270,Mushu,SETLƏR,Special Set,"Philadelphia - 8, california ebi - 8, black dragon - 8, red dragon - 8, mushu roll - 8, bonito roll - 8, rainbow - 8, salmon hot roll - 10, unagi hot roll - 10, avokado maki - 8, kappa maki - 8, crab maki - 8","115,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/c619ce7a-991a-11ea-9982-0a5864723d1d_whatsapp_image_2020_05_16_at_14.35.31__1_.jpeg
+271,Mushu,İÇKİLƏR,Red Bull® Energy Drink 250 ml,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ebb25a9a5d0b608932b08a0/c845c78e-95e2-11ea-8cc7-0a586471080c_red_bull_250_ml_new.jpeg
+272,Mozzarella Nizami Küç. ,Wolt Specials,"Sirab Premium®, 750 ml",,"4,95₼",https://wolt-menu-images-cdn.wolt.com/menu-images/80e1861e-73fd-11ea-ad8a-0a586461f910_red_bull_250_ml_new.jpeg
+273,Senior Mansimo Molokan Park,BELÇİKA VAFLİSİ,Qarışıq Vafli,+ 2 fincan çay,"8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/9204a70c-c5d6-11ea-a202-7a55bacf7f03_qarisiq_vafli.jpeg
+274,Senior Mansimo Molokan Park,KREP,Qarışıq Krep,+ 2 fincan çay,"8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/9186d75e-c5d7-11ea-9c03-5e4b4eb321c0_krep_qarisiq.jpeg
+275,Senior Mansimo Molokan Park,DONDURMALAR,Dondurma (1 top),Hər topun qiyməti 2 AZN-dir,"0,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/e24ee590-c5e2-11ea-bc9a-5a2b6f6919eb_dondurma_top.jpeg
+276,Senior Mansimo Molokan Park,DESERTLƏR,Meyvə Salatı,,"8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/b406afce-c8e4-11ea-bef6-3e437b159d26_meyve_salati.jpeg
+277,Senior Mansimo Molokan Park,KOFE  VƏ ÇAY,Hot Chocolate,,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/bd37036a-c8e3-11ea-ac16-62fbfc3d4dbf_hot_chocolate.jpeg
+278,Senior Mansimo Molokan Park,SOYUQ KOFE,Iced Oreo,,"5,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/04067ff8-c8e6-11ea-9518-5e14f046d4f0_ice_oreo.jpeg
+279,Senior Mansimo Molokan Park,LIMONADLAR,Çiyələkli Mohito,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/3145bccc-c8fa-11ea-9f08-028167fbdaec_mojito_strawberry.jpeg
+280,Senior Mansimo Molokan Park,MİLKŞEYKLƏR,Kit-Katlı Milkshake,,"7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/32ea3a20-c8fb-11ea-9c55-5e14f046d4f0_milkshake_kit_kat.jpeg
+281,Senior Mansimo Molokan Park,TƏZƏ SIXILMIŞ MEYVƏ ŞİRƏLƏRİ,Vitamin C,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f0dafe47c07b01d8ba452da/71ba5eb0-c8fb-11ea-ae3e-9a8d32d75d98_fresh_kok.jpeg
+282,Senior Mansimo Molokan Park,SOYUQ İÇKİLƏR,Sirab® Su 330 ml,Qazlı / Qazsız,"2,00₼",
+283,Tantuni & Pilaf,PİLAV,Pilav Toyuq Dönərli,"Plov, dönər toyuq əti, pomidor, turşu acı bibər, sous hatay, şaurma sousu, noxud","4,90₼",
+284,Tantuni & Pilaf,TANTUNİ,Tantuni Toyuq ilə Lavaşda,"Toyuq filesi, tantuni lavaşda, pomidor, göyərti, soğan, limon, turşu aci bibər, şirin pul bibər","3,40₼",
+285,Tantuni & Pilaf,ŞORBA,Mərci Şorbası,"Mərci şorbası, limon, çörək, quru nanə","2,50₼",
+286,Tantuni & Pilaf,QƏLYANALTILAR,Kartof Fri (böyük),"Kartof fri (böyük porsiya), ketçup, mayonez ","2,70₼",
+287,Tantuni & Pilaf,LAHMACUN,Pendirli Lahmacun,"Lahmacun xəmiri, lahmacun qıyməsi, limon, göyərti, gauda pendiri","3,20₼",
+288,Tantuni & Pilaf,SALATLAR,Sezar Salatı,"Toyuq filesi, kahı aysberq, pomidor çeri, sous sezar, suxari, pendir parmezan ","8,50₼",
+289,Tantuni & Pilaf,BURGERLƏR,Çikenburger,"Burger çörəyi, toyuq filesi, kahı, pomidor, turşu xiyar, sous meksikano, kartof fri, ketçup, mayonez, soya sousu","4,40₼",
+290,Tantuni & Pilaf,SENDVİÇ VƏ TOSTLAR,Sendviç Pomidor ilə,"Çörək tost, gauda pendiri, pomidor","2,20₼",
+291,Tantuni & Pilaf,DÖNƏRLƏR,İskəndər Dönər,"Dönər əti, dırnaq pide, sous iskender, yağ kərə, bibər yaşıl acı, pomidor, qatıq iskender","11,00₼",
+292,Tantuni & Pilaf,ŞAURMA,Buritto Şaurma,"Toyuq əti, turşu xiyar, sous hatay, sous şaurma,  kartof fri, özəl special lavaş, turşu xiyar","4,80₼",
+293,Tantuni & Pilaf,İÇKİLƏR,BonAqua® Qazlı Su,,"1,00₼",
+294,Ormado Kaffeehaus,Wolt Specials,Latte Special! 😍 ☕,2 Latte sifariş et və orta Amerikano pulsuz qazan! 🎁,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/f783058a-0072-11ea-bf7b-0a5864601872_Latte.jpeg
+295,Ormado Kaffeehaus,SALAT 🥗,Sezar Salat Toyuq ilə,"Xüsusi sous, salat, suxari, toyuq, pomidor, parmesan pendiri","8,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/367a6188-f999-11e9-938f-0a586463ae9c_Caesar.jpeg
+296,Ormado Kaffeehaus,TOSTLAR 🍞,Tost Monte Kristo,"Xüsusi sous, vetçina, pomidor, pendir və tərəvəz","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/0fd22ed4-f99a-11e9-b5bc-0a5864640c65_Monte_cristo.jpeg
+297,Ormado Kaffeehaus,DESERTLƏR 🍰,Pancake,,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5daff572e9bae2b2d3d44491/1dc5fff8-e07a-11ea-9405-5eaed72f19dd_039c0156.jpeg
+298,Ormado Kaffeehaus,QƏHVƏ ☕,Turkish Coffee,,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/8bcc69e6-f99a-11e9-8873-0a586464981a_Turkish_coffe.jpeg
+299,Ormado Kaffeehaus,SOYUQ QƏHVƏ ❄☕,Iced Caffe Mocca,,"6,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/ca2bcd80-f99a-11e9-a584-0a58646005fa_Ice_raf.jpeg
+300,Ormado Kaffeehaus,SPECIALS 💥☕,Latte Caramel,,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/ecd3ee16-fa13-11e9-8def-0a5864631dd4_Latte.jpeg
+301,Ormado Kaffeehaus,ALKOQOLLU QƏHVƏ,Bailey's Coffee,,"8,50₼",
+302,Ormado Kaffeehaus,İSTİ ŞOKOLAD 🍫☕,White Chocolate,,"5,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/a259cdbe-fa14-11e9-a435-0a58646005fa_White_chocolate.jpeg
+303,Ormado Kaffeehaus,KOKTEYL 🍹,Mojito Strawberry,,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/d4639c9a-fa14-11e9-9dee-0a5864631dd4_Strawberry_maxito.jpeg
+304,Ormado Kaffeehaus,İÇKİLƏR 🥤,Homemade Ice Tea (Manqo),,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/e01e8f20-0060-11ea-bdd1-0a586465a21b_Passion_fruit_ice_tea___Mango_ice_tea.jpeg
+305,Burger House,BAŞLANĞICLAR,Acılı Toyuq Qanadları,"Şirin çili sous, tobasko, toyuq qanadları","8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/8bc4f82e-4e58-11ea-a2d0-0a586475cc5d_acili_toyuq_qanad.jpeg
+306,Burger House,SENDVİÇ & DÜRÜM,Klab Sendviç,"Toyuq filesi, vetçina, yumurta, kahı, turşu xiyar, pomidor, mayonez, kartof fri ilə","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/d952f7a8-4e58-11ea-8d04-0a586473799b_club_sandwich.jpeg
+307,Burger House,TOSTLAR,Qarışıq Tost,"Sosis, sucuk, mozzarella pendiri","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/fc8d153c-4e58-11ea-a415-0a586471b4d4_tost_sucuklu.jpeg
+308,Burger House,SALATLAR,Tuna Salatı,"Tuna balığı, qaynadılmış yumurta, qırmızı soğan, kahı, kapers, pomidor, zeytun yağı, limon","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/936e9768-4e5a-11ea-b766-0a5864697473_tuna_salat.jpeg
+309,Burger House,BURGERLƏR,Falafel Burger,"Falafel, tahini, kahı, tartar sousu, çeddar pendiri, pomidor, turşu xiyar","6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/2939edb0-4e5b-11ea-b8df-0a586476532f_falafel_burger.jpeg
+310,Burger House,PASTALAR,Spaghetti Bolognese,"Spaghetti, qiymə, parmezan pendiri","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/7d71900e-4e5b-11ea-bf98-0a586475cd47_bolonez.jpeg
+311,Burger House,ƏSAS YEMƏKLƏR,Fajita Ət ilə,"Can əti, göbələk, rəngli bibər, jelapeno","19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/1e35d264-4e5e-11ea-bbf9-0a586460051e_fajita_toyuq_et_gariwiq.jpeg
+312,Burger House,İÇKİLƏR,Fanta® 250 ml,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/0ebb6a40-4f14-11ea-b19c-0a586476475e_WOLT_drinks_1440x810_fanta_glass.jpeg
+313,The Academy Cafe,Wolt Specials,Köftə Kombo 3 😍,"Köftə, Coca-Cola® 330 ml","11,40₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f3bbd8f2cff11c5e6ba5bdc/44893640-7dba-11eb-a623-2e50eb59103d_salami.jpeg
+314,The Academy Cafe,İÇKİLƏR,Fresh Orange Juice,,"6,00₼",
+315,The Academy Cafe,ALKOQOLLU İÇKİLƏR,Heineken,,"6,00₼",
+316,Tavada,ŞORBALAR,Mərci Şorbası,"Qırmızı mərci, soğan, kök, limon","4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/a2aec540-468e-11eb-8aef-32c62267acfd_m_rci_s_orbas_.jpeg
+317,Tavada,SALATLAR,Çoban Salatı,"Pomidor, xiyar, qarışıq göyərti, qırmızı soğan, limon","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/2815f4b0-468f-11eb-ae06-4e451faa0b5c_c_oban_salat_.jpeg
+318,Tavada,SOYUQ QƏLYANALTILAR,Tərəvəz Buketi,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/f038a7b8-468e-11eb-baf0-56f4cd05c104_t_r_v_z_buketi.jpeg
+319,Tavada,İSTİ QƏLYANALTILAR,Quzu Çöp Şiş Tərəvəz ilə,"Quzu əti, çerri pomidoru, rəngli bibər, qırmızı soğan","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/1947301a-4690-11eb-9dad-d6b47acf8b2c_quzu_c_o_p_s_is__t_r_v_z_il_.jpeg
+320,Tavada,SENDVİÇ VƏ BURGERLƏR,Qara Burger,"Qara burger çörəyi, burger əti, pomidor, xiyar turşusu, qırmızı soğan, kahı, çedar pendiri, fri, ketchup, mayonnaise","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/43ef8078-4691-11eb-88ac-3e044040b53d_qara_burger.jpeg
+321,Tavada,PİZZA,Ətli Pizza,"Mal əti, pizza pomidor sousu, mozzarella, pizza xəmiri","11,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/a8e7c054-4690-11eb-9714-feda498f713a__tli_pizza.jpeg
+322,Tavada,MANQAL VƏ SAC YEMƏKLƏRİ,Qarışıq Sac,"Quzu əti, can əti, çolpa, pomidor, rəngli bibər, soğan, kartof, acı bibər, göbələk","30,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/90c371b0-4692-11eb-8a6c-4e451faa0b5c_qar_s__q_sac.jpeg
+323,Tavada,İSTİ YEMƏKLƏR,Forel Qrildə,"Forel balığı, limon, narşarab","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/a629ae4e-4691-11eb-996d-cef4671f3953_qrild__q_zard_lm_s__forel_bal_g__.jpeg
+324,Tavada,QARNİRLƏR,Düyü,"Uzun düyü, kərə yağı","3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fe5a60e0f0388c7007b6b05/a759ff96-468f-11eb-9004-e29483273c43_du_yu_.jpeg
+325,Tavada,IÇKİLƏR,Ice Tea 330 ml,,"3,00₼",
+326,Pizza Inn,SETLƏR,Portağallı Salat,,"12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5d400f0f4da937d65e4885bb/423204d2-44e2-11eb-a2f7-d6a9621a8adf_portagalsalat.jpeg
+327,Hollywood,BURGER & SENDVİÇLƏR,Chicken Burger,"Kokteyl sousu, kahı, pomidor, duzdu xiyar, toyuq","10,90₼",
+328,Hollywood,SALATLAR,"""Hollywood"" Salatı","Can əti, keşniş, çeri pomidoru, qırmızı lobya, duzdu xiyar, pesto sous","14,90₼",
+329,Hollywood,ƏSAS YEMƏKLƏR,Steyk Göbələk Sousunda,"Grildə qızardılmış can əti, göbələk sousu, evsayağı kartof ilə verlir","22,90₼",
+330,Hollywood,PASTALAR,Toyuq Tagliatelle,"Tagliatelle, toyuğun döş əti, şampinyon göbələyi, qaymaq, parmesan pendiri","11,90₼",
+331,Hollywood,PİZZALAR,"Pizza ""Hollywood""","Xüsusi pomidorlu sous, mozzarella pendiri, salami, toyuq, pomidor, göbələk, rəngli bibər, zeytun","14,90₼",
+332,Hollywood,QƏLYANALTILAR,Pendir Assorti,,"15,90₼",
+333,Hollywood,ŞORBALAR,Tomat Şorbası,,"5,90₼",
+334,Hollywood,SUŞILƏR,Hollywood Ura Maki,"Dəniz yosunu, düyü, xəmirdə qızardılmış krevetka, xiyar, pendir, küncüt, krab əti, qırmızı kürü, yaşıl soğan, yapon mayonezi","14,90₼",
+335,Hollywood,ŞİRƏLƏR,Qreyfrut Şirəsi 250 ml.,,"8,00₼",
+336,Hollywood,VODKALAR,Stolichnaya 1lt.,40%,"85,00₼",
+337,Hollywood,WHISKEY,Mounkey Shoulder 1lt.,40%,"110,00₼",
+338,Hollywood,ŞƏRABLAR,Savalan Limited,"Qırmızı şərab, 13,5%","35,00₼",
+339,212 Dönər,Wolt Specials,3 Basdırma Dönər = 1 Dönər və ya Şaurma Hədiyyə! 🎁,"3 Basdırma dönər sifariş edənə, istənilən dönər və ya şaurma hədiyyə! 🔥","0,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/ad1dd0b6-b214-11ea-9082-5604d81b0c77_212_doner_3_bastirma.jpeg
+340,212 Dönər,ƏLAVƏ,Ev Sayağı Kartof,,"3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/d88b1b86-8e11-11ea-a8ce-0a58647f8da5_potato_wedges.jpeg
+341,212 Dönər,DÖNƏR,212 Roll Dönər Ət ilə,,"9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/2cace190-94ed-11ea-be8c-0a5864701b1d_whatsapp_image_2020_05_07_at_13.24.39.jpeg
+342,212 Dönər,ŞAURMA,Lavaşda Şaurma (Toyuq),,"3,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/5e1bd038-8e08-11ea-8574-0a5864677b82_chicken_shaurma_lavash.jpeg
+343,212 Dönər,QABDA DÖNƏR,Sac Dönər Toyuq ilə,,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/72a9adda-94ee-11ea-bf13-0a5864702235_saj_doner_chicken.jpeg
+344,212 Dönər,ŞORBA,Toyuq Şorbası,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/f2923b3e-94ee-11ea-afae-0a58646abf51_chicken_soup.jpeg
+345,212 Dönər,QƏLYANALTILAR,Naggets,Mayonez və ketçup ilə,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/20df7dca-c682-11ea-80d2-82003e9d1a40_green_and_white_gaming_youtube_channel_art_3.jpeg
+346,212 Dönər,İÇKİLƏR,212 Ayran,,"1,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb00dba1ffba57cd749e76e/d08664d8-94ef-11ea-90d7-0a58646d7aa1_ayran.jpeg
+347,Corner Eatery & Cafe ,Wolt Specials,Pikador Burqer + Hədiyyə İçki! 🤩,"Pikador Burqer (burqer çörəyi, can əti, pomidor, turşu xiyar, kahı, xüsusi sous) + Seçimə Görə Coca-Cola®, Fanta® və ya Sprite® 330 ml Hədiyyə! 🎁","7,90₼",
+348,Corner Eatery & Cafe ,ŞORBALAR,Toyuq Şorbası,"Toyuq, sarımsaq, qatıq, ədviyyatlar, acılı kərə yağı","4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/26ca1280-0233-11eb-9ce8-4a2f2e5123da_54.jpeg
+349,Corner Eatery & Cafe ,SOYUQ QƏLYANALTILAR,Krevetka Kokteyli,"Krevetka, qarışıq göyərtilər, çeri pomidor, sarımsaq, zeytun yağı, kokteyl sous","8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/d34af5b4-1ab7-11eb-a706-1adea7c6f4a2_krivet_kokteyli_8.00_azn.jpeg
+350,Corner Eatery & Cafe ,İSTİ QƏLYANALTILAR,Toyuq Külçələri,"Pankolanmış toyuq filesi ,aioli sous, kartof qızartması","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/68e3ecda-022f-11eb-ae02-2a3bc98cb64e_12.jpeg
+351,Corner Eatery & Cafe ,SALATLAR,Ət Salatı,"Can əti, çeri pomidor, qırmızı soğan, qarışıq göyərtilər, zeytun yağı, küncüt yağı, soya sous, oyster sous","13,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/4c660d70-1ab9-11eb-9bfc-5ebf029156e9_img_5002.jpeg
+352,Corner Eatery & Cafe ,SENDVİÇLƏR,Club Sendviç,"Haris tost çörəyi, toyuq filesi, vetçina, kahı, pomidor, tursu xiyar, yumurta, çedar pendiri, kokteyl sous ","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/136dd77a-1a8f-11eb-9520-1a97e8b85c3f_club_sendvi__9.00_azn.jpeg
+353,Corner Eatery & Cafe ,BURGERLƏR,Toyuq Barbekyu Burqer,"Burqer çörəyi, toyuq əti, pomidor, turşu xiyar, kahı, barbekyu sous","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/ee044742-1a90-11eb-b35c-fe4ff7008747_toyuq_barbekyu_burqer_9.00_azn.jpeg
+354,Corner Eatery & Cafe ,PASTA,Rigatoni Bolonez,"Riqatoni makaronu, bolonez sous, çeri pomidor, kərə yağı, yaşıl reyhan, parmesan pendiri","9,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/d4bb2c60-1ab3-11eb-938b-aee9ffd14fc5_img_4924.jpeg
+355,Corner Eatery & Cafe ,PIZZA,Pizza Corner,"Pizza xəmiri, qırmızı sous, quzu əti, pomidor, mozzarella pendiri","17,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/45ec0818-0232-11eb-9fc1-d23433022383_41.jpeg
+356,Corner Eatery & Cafe ,ƏRİŞTƏ,Asiya Üslublu Dəniz Məhsullu Tərəvəzli Əriştə,"Əriştə, qarışıq dəniz məhsulları, pomidor, yaşıl soğan, rəngli bibər, kök, kabak, oyster sous, soya sous, küncüt yağı","13,50₼",
+357,Corner Eatery & Cafe ,ANA YEMƏK,Qızardılmış Qızılbalıq Steyki,"Qızılbalıq filesi, yaşıl noxud, kartof puresi, çeri pomidor","19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/636f7476-0230-11eb-8cca-da8418dfcd18_26.jpeg
+358,Corner Eatery & Cafe ,MİLLİ MƏTBƏX,Yarpaq Dolması,"Quzu əti, üzüm yarpağı, düyü, göyərtilər, kərə yağı, qatıq","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/69ca4cd0-0233-11eb-95f8-4ea31a3f398d_58.jpeg
+359,Corner Eatery & Cafe ,UŞAQ MENUSU,Almadilim Kartof Qızartması,"Almadilim kartof qızartması, ədviyyatlar, aioli sous","3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/fb19c1ee-1aba-11eb-853d-aab6bfe6aa31_img_5317.jpeg
+360,Corner Eatery & Cafe ,DESERTLƏR,SanSebastian Çizkeyk,,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/6f9f0ba2-1abe-11eb-bb9d-aee9ffd14fc5_san_sebastian__izkeyk_7.00_azn.jpeg
+361,Corner Eatery & Cafe ,BİSTRO,Qarışıq Pizzatini,"Pizza xəmiri, pizza sous, pomidor, toyuq əti, dana əti, mozzarella pendiri, pesto sous","6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/c58bfbba-1b8b-11eb-9745-92a5b3804cd9_qarisiq_pizzatini.jpeg
+362,Corner Eatery & Cafe ,FRANSIZ UNLULARI,Mini Fransız Unluları Seti,,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/70a7e836-0234-11eb-ac8e-92d4c7176b1c_82.jpeg
+363,Corner Eatery & Cafe ,QARNİR,Özəl Düyü,"Düyü, şüyüd, kərə yağı","3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/1c5e22a6-0232-11eb-bae0-8ee89b9d5e51_40.jpeg
+364,Corner Eatery & Cafe , ÇAYLAR,Premium Yasmin Çayı,,"9,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/71fb7ba0-1abf-11eb-83f2-dac54e1af7ea__aylar.jpeg
+365,Corner Eatery & Cafe ,QƏHVƏ,Frappe,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/c58da40e-1b88-11eb-af3c-0a72d120bf63_frappe.jpeg
+366,Corner Eatery & Cafe ,SULAR və QAZLI İÇKİLƏR,Sirab Premium 750 ml,,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/6d650d34-1b89-11eb-9e30-ce62d6ce9d4b_sirab_qazli_balaca.jpeg
+367,Corner Eatery & Cafe ,MEYVƏ SULARI və KOKTEYLLƏR,Smuzi,"Bananlı-Çiyələkli, Almalı-Giləmeyvəli","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e96ecc73281b675e7ff54ba/bf781390-1b8a-11eb-b733-76bbecd296f4_smuzi.jpeg
+368,Köz Plus Nizami,Wolt Specials,İsgəndər Dönəri Toyuq,"Toyuq file, qovrulmuş çörək, kərə yağı, tomat sousu, bişmiş pomidor və bibər","7,20₼",
+369,Köz Plus Nizami,ŞORBALAR,Mərci Şorbası,"Tomat salçası, nanə, pul bibər, zeytun yağı, qovrulmuş soğan","2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/9f09251e-2fcf-11eb-8196-aaa38f6ec784_merci_mercimek_kok_kartof_sogan_duz_isiot.jpeg
+370,Köz Plus Nizami,SALATLAR,Çoban Salatı,"Pomidor, xiyar, limon suyu, göyərti","3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/264c70a2-2f4f-11eb-a2ef-7291ee087651_coban_salati_pmdr_xyar_goy_limon_suyu.jpeg
+371,Köz Plus Nizami,QƏLYANALTILAR,Kartof Fri,,"3,00₼",
+372,Köz Plus Nizami,BURGERLƏR,Toyuq Burgeri,"File toyuq, turşu xiyar, pomidor, kahı, ketçup, mayonez","4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/fe0b69de-2fd2-11eb-9ff4-9ed82dfa1cc8_qamburger_menu_dana_eti_kahi_maynz_turwu_xiyar_pomidor_fri.jpeg
+373,Köz Plus Nizami,TANTUNI,Çift Lavaş Tantuni,"Dana əti, pomidor, cəfəri, soğan ","3,90₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/8086ce14-2fd1-11eb-b48f-c2f98af35f44_plovustu_tantuni_duyu_goy_sogan_pom_xiyar_qovrlmw_dana_eti.jpeg
+374,Köz Plus Nizami,KÖFTƏ,Qabda Pendirli Toyuq Köftə,"Toyuq filesi, kartof fri və ya düyü, kahı salatı, bişmiş pomidor, bişmiş bibər","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/3bed3950-2fd1-11eb-9bc4-c62a1fb344a9_et_kofte_lavaw_et_kofte_pomidor_goy_mayonez_kecup.jpeg
+375,Köz Plus Nizami,DÖNƏRLƏR,Vegeterian Dönər Çörək,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/edfd6e64-2fcf-11eb-a711-1aac721feadb_toyug_doner_lavaw_toyug_eti_pomidor_goy_mayonez_tomat_souz.jpeg
+376,Köz Plus Nizami,ŞAURMA,Şaurma Toyuq Lavaş,"Toyuq filesi səba, pomidor, fri, şaurma sousu, turşu xiyar","3,00₼",
+377,Köz Plus Nizami,ƏT YEMƏKLƏRI,Toyuq Lülə,"Toyuq filesi, quyruq, fri və ya düyü, bişmiş pomidor, bişmiş bibər, kahı salatı","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f93ee3baa51074e24f72f06/4681ef06-2fd0-11eb-9711-7a2a90ca77ee_toyug_lule_toyug_file_fri_xiyar_kahi_salat_kecp_maynzz.jpeg
+378,Köz Plus Nizami,İÇKİLƏR,Fanta® 330 ml,,"2,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed2db698f7910019ba4e8d4/14e16b96-a32d-11ea-aa4f-0a5864776406_fanta__can_330ml.jpeg
+379,Köz Plus Nizami,ŞIRNIYYAT,Künəfə Qaymaqlı,,"6,00₼",
+380,Wok No 1,SETLƏR,Klassik Mini Set,"Kaliforniya Roll, Kaliforniya Hot Roll, Filadelfiya Salmon Roll","45,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/886ba33a-75bc-11eb-a0d6-0e241806a306_screenshot_2021_02_23_at_1.49.45_pm.jpeg
+381,Wok No 1,QƏLYANALTILAR,Krevet Çips,,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/d5164e56-8273-11eb-a063-d678df0c6c31_screenshot_2021_03_11_at_6.12.13_pm.jpeg
+382,Wok No 1,ROLLAR,Bişmiş Salmon Murakami Roll,,"17,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/04f8950a-75ba-11eb-ab98-aa4839540703_screenshot_2021_02_23_at_1.31.49_pm.jpeg
+383,Wok No 1,ƏSAS YEMƏKLƏR,Şirin və Turş Krevet,"Rəngli bibər, krevet, pomidor, şirin və turş sous","24,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/c4368f4a-6015-11eb-806c-5efcf8b6033d_whatsapp_image_2021_01_26_at_4.41.39_pm.jpeg
+384,Wok No 1,ŞORBALAR,Tom Yum Şorbası,"Pomidor, soğan, göbələk, keşniş, zəncəfil, krevet, tom yam sousu","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/a50e4432-6015-11eb-9e3e-7e6d9cf6d735_whatsapp_image_2021_01_26_at_4.40.34_pm.jpeg
+385,Wok No 1,SALATLAR,Funçoza Salatı Krevet ilə,,"15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/bcff5ff8-75ba-11eb-af93-66d52fa2055a_screenshot_2021_02_23_at_1.37.08_pm.jpeg
+386,Wok No 1,ƏRİŞTƏ & QIZARDILMIŞ DÜYÜ,Toyuq Teriyaki,,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/600a7b28eb613873307c63ad/95bb46e6-75ba-11eb-adc8-6aa651d1a8aa_screenshot_2021_02_23_at_1.35.54_pm.jpeg
+387,Wok No 1,İÇKİLƏR,Fuse Tea® Şaftalı,,"2,00₼",
+388,Malakan Sushi,Wolt Specials,Fuse Tea® Şaftlalı 330 ml,,"2,55₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604785c2ab2eb83f15b3519b/54740488-8178-11eb-8986-d657517e2cc4_fuse_tea_peach_can.jpeg
+389,Boombalambuz,DESSERTLƏR,Fruit Crepe,Qarışıq meyvəli və xüsusi şokoladlı Boombalambuz şirəsi ilə fəsəli,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/c8231a9a-4984-11ea-bebb-0a586474dd63_fruit_crepe.jpeg
+390,Kumpir №1,KUMPİR,Vegetarian Kumpir,"Sobada kartof, kərə yağı, qızardılmış soğan, bibər, göbələk, qarğıdalı, yaşıl noxud, tomat sousu","6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fc0c0d88b1fc740e7023dbc/4ad58670-86fc-11eb-b01c-5e4e46105ee0_vegeterian_kumpir.jpeg
+391,Kumpir №1,QƏLYANALTILAR,Kesadilya Ət ilə,"Tortilla lavaş, pendir, mal əti, soğan, şirin bibər, tomat sousu, xama","9,60₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fc0c0d88b1fc740e7023dbc/8b38bb8c-86fd-11eb-ac92-4a08a46c2940_quesadillias_beff.jpeg
+392,Kumpir №1,İÇKİLƏR,Təzə Sıxılmış Portağal Şirəsi,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fc0c0d88b1fc740e7023dbc/fe778ede-86fd-11eb-bb19-1edec7b6941f_fanta__can_330ml.jpeg
+393,La Vera Pizza,Wolt Specials,Marqarita Kombo 🤩,"Marqarita pizza 30 sm + kartof fri + içki seçimə görə (Coca-Cola®, Fanta®, Sprite® 300 ml)","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e297aa66e4584f7b33aed8b/2c25169c-80b6-11eb-9802-22e8a08db319_screenshot_2021_03_09_at_1.02.02_pm.jpeg
+394,La Vera Pizza,PİZZA,Calzone Bolonyez,"Pizza sousu, mozarella pendiri, qıyma ət və parmezan pendiri
+","9,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/108c16bc-410e-11ea-a6a4-0a5864746504_7_Calzone_Bolanezli.jpeg
+395,La Vera Pizza,BURGERLƏR,La Vera Çizburger,"Dana və quzu əti, kahı, pomidor, pendir, xüsusi sous","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5cccd942-3dd7-11ea-bbc1-0a5864736707_Burger.jpeg
+396,La Vera Pizza,SALATLAR,Sezar Salatı,"Toyuq filesi, kahı, pomidor, suxari, sous, parmezan pendiri
+","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/0c7b875c-436a-11ea-9120-0a586474dd16_Sezar_Salat_.jpeg
+397,La Vera Pizza,ŞORBALAR,Mərci Şorbası,"Qırmızı mərci, soğan, sarımsaq, kartof, yerkökü, quru nanə
+","3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/f33bab84-3dd1-11ea-95bd-0a586465c85f_1_M_rcim_k_s_orbas_.jpeg
+398,La Vera Pizza,İÇKİLƏR,Ayran 250 ml,,"1,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/f81ece02-4983-11ea-bebb-0a586474dd63_doganay_shalgam_330_ml.jpeg
+399,Kebab Express,Wolt Specials,Lahmacun Kombo 🤩,Lahmacun (2 əd.) + çiy köftə + ayran,"9,00₼",
+400,Kebab Express,KABABLAR,Yoğurtlu Kabab,"Qatıq, qızarmış çorək, quzu əti
+","13,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/238ae77a-42a8-11ea-b8af-0a586474c007_4_Alt__zm_li.jpeg
+401,Kebab Express,DÜRÜMLƏR,Ciyər Dürüm,"Quyruq, ciyər, pul bibər, kimyon, soğan, cəfəri, pomidor, lavaş","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/968954b4-42a3-11ea-91b3-0a586474b519_4_Ciy_r_du_ru_m.jpeg
+402,Kebab Express,LAHMACUN VƏ PİDE,Quşbaşı Pide,"Quzu əti, pomidor, bibər","11,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5da9a148-42a4-11ea-be1e-0a5864697481_5_Qus_bas__l__Pide.jpeg
+403,Kebab Express,QARNİRLƏR,Kartof Fri,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/05b2f5c8-42a6-11ea-81a8-0a586474b516_3_Kartof_Fri.jpeg
+404,Kebab Express,ŞORBALAR,Mərci Şorbası,"Qırmızı mərci, soğan, sarımsaq, kartof, yerkökü, quru nanə
+","3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/f33bab84-3dd1-11ea-95bd-0a586465c85f_1_M_rcim_k_s_orbas_.jpeg
+405,Kebab Express,SALATLAR,Sezar Salatı,"Toyuq filesi, kahı, pomidor, suxari, sous, parmezan pendiri
+","6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/2510d3ee-436a-11ea-ae1b-0a586474dd16_Sezar_Salat_.jpeg
+406,Kebab Express,BURGERLƏR,Urfa Çizburger,"Dana və quzu əti, kahı, pomidor, sous, pendir","7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/cef2a18e-42a3-11ea-b530-0a586474bc06_Burger.jpeg
+407,Kebab Express,ŞİRNİYYAT,Fırın Sütlaç,"Süd, düyü, şəkər tozu, vanil, nişasta","3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/bf7a8752-42a4-11ea-adf0-0a586472f0a4_6_Su_tlac_.jpeg
+408,Kebab Express,İÇKİLƏR,Ayran 250 ml,,"1,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/f81ece02-4983-11ea-bebb-0a586474dd63_doganay_shalgam_330_ml.jpeg
+409,Adam's Curry,ŞORBALAR,Toyuq Manchow Çorbası,"Toyuq, noodle, sirkə, soya sousu, ağ və qara bibər","7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/ff2a68e0-28a4-11eb-bb41-22682d25d8bd_chicken_manchow_soup.jpeg
+410,Adam's Curry,BİZNES LANÇ,Vegetarian Biznes Lanç,"Dal şorbası, təzə salat, tərəvəz jalfrezi, düyü","10,40₼",
+411,Adam's Curry,HİND VƏ ÇİN MƏTBƏXİ,Çili Göbələkli,Göbələklər hind ədviyyatları və çilli sousu ilə bişirilir,"12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/b507dd54-2987-11eb-9eef-d66c4e536533_crispy_chicken___crispy_cauliflower.jpeg
+412,Adam's Curry,TANDOOR,Tandoori Gül Kələmi Kabab,Təndirdə qızardılmış hind ədviyyəli gül kələmləri,"11,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/e020356c-298d-11eb-af73-f23399f1e01e_tandoori_chicken.jpeg
+413,Adam's Curry,CHEF'S SPECIAL,Palak Toyuq/Quzu,Hindistan ədviyyatları və ispanaq Curry sousu,"19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/83433de0-298c-11eb-852a-36f655401bf0_chicken_malvan__lamb_malvan.jpeg
+414,Adam's Curry,QƏLYANALTILAR,Raita,,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/5346cb44-28a5-11eb-9dff-c236459ad4eb_raita.jpeg
+415,Adam's Curry,TANDOORI HİND ÇÖRƏYİ,Gobi Paratha,,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/dc5ed9a8-298b-11eb-a5aa-d22d4ba4a560_tandoori_roti.jpeg
+416,Adam's Curry,DÜYÜ,Toyuq/Quzu/Balıq/ Krevet ilə Biryani,,"17,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/ca9658cc-298b-11eb-8943-d23c24988716_veg_fried_rice.jpeg
+417,Adam's Curry,ÇİN MƏTBƏXİ,Hakka Noodle Tərəvəz/Toyuq,"Soğan, biber, zəncəfil, sarımsaq, əriştə ","17,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/4f43c1f8-28a7-11eb-9e79-c236459ad4eb_veg_hakka_noodle.jpeg
+418,Adam's Curry,HİND CURRY,Curry Toyuq/Quzu/Balıq/Krevet,Kremli curry,"18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/b877ce72-28a6-11eb-878e-de0ed4205310_prawn_curry__chicken_curry.jpeg
+419,Adam's Curry,VEGETARIAN,Malai Kofta,Kremli yogurt sousunda keshyu fındıqları ilə bişirilmiş Hindistan kəsmik pendir topları,"14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5fb2273deee077c9aba526e7/5187ef14-298a-11eb-b681-b69a2efe4685_malai_kofta.jpeg
+420,GAIA Restaurant,QƏLYANALTILAR,Qəlyanaltı Boşqabı,"Hisə verilmiş humus, qızardılmış noxud, sosis, pendir, qara və yaşıl zeytun, hisə verilmiş dana, qızardılmış lobya","13,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604f0b4c7fa4babfde72c347/86a6fbca-8562-11eb-a085-8a4cbf463bd0_gelyqnalti.jpeg
+421,GAIA Restaurant,SENDVİÇLƏR,Dana Əti Burger,"Burqer çörəyi, qırmızı soğan, pendir, qızardılmış bekon, kahı, pomidor","10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604f0b4c7fa4babfde72c347/9ae4fd4a-8561-11eb-b194-0a8253f8744b_burger.jpeg
+422,GAIA Restaurant,SALATLAR,Sezar Salatı Hisə Verilmış Qızıl balıq ilə,"Aysberq kahı, sezar sousu, suxari, pomidor, qızıl balıq ","14,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604f0b4c7fa4babfde72c347/137fe0d0-8562-11eb-b970-4255cba476e9_caesar_salmon.jpeg
+423,GAIA Restaurant,ƏSAS YEMƏKLƏR,Qızardılmış Dorado Balığı,Tərəvəzli salat ilə,"18,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604f0b4c7fa4babfde72c347/b2f2f35a-8562-11eb-8cd0-328664984dfe_dorado.jpeg
+424,GAIA Restaurant,ŞORBALAR,Qaymaqlı İspanaq Şorbası Yumurta Sarısı ilə,,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604f0b4c7fa4babfde72c347/cc7506a6-8562-11eb-bb53-b6758de866d1_spinach.jpeg
+425,GAIA Restaurant,İÇKİLƏR,Red Bull®,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/604f0b4c7fa4babfde72c347/80bb6dae-88a5-11eb-901a-f24a21847b00_red_bull_250_ml_new.jpeg
+426,Paşa Dönər Fəvvarələr Meydanı,DÖNƏR,Şaurma Toyuq ilə (Lavaşda),"Lavaş, turşu xiyar, kartof, Paşa sous, toyuq","3,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f7702da36717a1648128a29/f019f2de-0a19-11eb-a270-6e0fbc4ed91a_shaurma_lavashda.jpeg
+427,Paşa Dönər Fəvvarələr Meydanı,FASTFUD,Kartof Fri,,"3,20₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f7702da36717a1648128a29/4c6aeb92-0a1a-11eb-9792-06fbbd18b452_fri.jpeg
+428,Paşa Dönər Fəvvarələr Meydanı,İÇKİLƏR,Fuse Tea® 0.33 L (Banka),,"2,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5f7702da36717a1648128a29/e4716f80-0a1d-11eb-8e94-fe52078de5aa_fuse_tea_peach_can.jpeg
+429,Compass Pub West,Wolt Specials,Set #3,"Sezar salatı, sousda toyuq qanadları, kartof fri, Coca-Cola, Filtrlənmiş Xırdalan 1l","18,99₼",
+430,Compass Pub West,QƏLYANALTILAR,Bildirçin Hisə Verilmiş,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/6afec622-b5fc-11ea-955c-6e7451262a15_bildircin_kapchoniy.jpeg
+431,Compass Pub West,ŞORBALAR,Mərci Şorbası,"Qırmızı mərcimək, baş soğan, yer kökü, bolqar bibəri, ədviyyat","5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/50ec96c8-b5f8-11ea-b208-ba227a953a85_merci_supu.jpeg
+432,Compass Pub West,SALATLAR,Yunan Salatı,Pendir ilə,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/ce3f12fe-b5f8-11ea-ac44-5620483e652a______________.jpeg
+433,Compass Pub West,SOYUQ QƏLYANALTILAR,Kolbasa Assorti,"Bərk hisə verilmiş kolbasa, ovçu kolbasası, krakov kolbasası","11,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/0aa9b1b8-b5f9-11ea-a9c3-7290c9d677eb__________________.jpeg
+434,Compass Pub West,İSTİ QƏLYANALTILAR,Kolbasa Pivədə,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/bba28f38-da1d-11ea-aaf6-86d749429985_img_5156.jpeg
+435,Compass Pub West,BBQ,Halal Sosislər (3 əd.),,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/ff339baa-b620-11ea-abd0-caa579539b48_img_5194.jpeg
+436,Compass Pub West,İSTİ YEMƏKLƏR,Svit Çili Toyuq,"Toyuq filesi, ədviyyat, sous","11,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/2d4e959a-b611-11ea-9f06-c2370c9c5dca________________.jpeg
+437,Compass Pub West,GARNİRLƏR,Ev Sayağı Kartof,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/db32c488-d0c4-11ea-9aef-f67dfa157ba3_screenshot_2020_07_28_at_3.22.37_pm.jpeg
+438,Compass Pub West,SOUSLAR,Svit Çili Sous,,"2,00₼",
+439,Compass Pub West,PIVƏ ÜÇÜN BALIQ,Qurudulmuş Çapaq Balıq,,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/1f5cbeda-b5f8-11ea-8f39-4e189b9f99a5______.jpeg
+440,Compass Pub West,PİVƏLƏR,Xirdalan,,"4,00₼",
+441,Compass Pub West,QABDA PİVƏ,Efes Zero,,"4,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/9d641172-b5f1-11ea-bd0d-0a8a2cc782f9_efes_330ml.jpeg
+442,Compass Pub West,SPİRTLİ İÇKİLƏR,Svoyak Araq 500 ml,,"23,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/27085e0e-b5f4-11ea-ab6a-12af1920d0dc_img_5203.jpeg
+443,Compass Pub West,İÇKİLƏR,Natakhtari Limonad 500 ml,,"3,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ef0f4488d9f32103bcb3657/e8e1d758-b617-11ea-a121-bad3a12dfb63_natakhtari_dushes_500_ml.jpeg
+444,Kuba Lounge & Bar,QƏLYANALTILAR,Qızartma Assorti,"Soğan halqaları, pendir çubuqları, acılı toyuq qanadları, pop-korn toyuğu, kartof çipsləri və sous","19,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb54d0c3ea29e5d990527c5/84d18c48-a589-11ea-bb88-0a586477de24_fried_plate.jpeg
+445,Kuba Lounge & Bar,BURGERLƏR VƏ SENDVİÇLƏR,Chicken Joe,"Burger çörəyi, toyuq filesi tempura, turşu xiyar, kahı, pomidor, kartof fri, sirli sous","11,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb54d0c3ea29e5d990527c5/94dea33a-a59f-11ea-a948-0a586477e311_chicken_joe.jpeg
+446,Kuba Lounge & Bar,İÇKİLƏR,Corona® 330 ml,,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb54d0c3ea29e5d990527c5/8158f748-9523-11ea-b133-0a586470a612_update_corona_beer.jpeg
+447,Kuba Lounge & Bar,KOKTEYLLƏR,Mai Tai,"Ağ rom, tünd rum, badam siropu, portağal curakao, laym suyu","13,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5eb54d0c3ea29e5d990527c5/3b3dc7f6-9bbe-11ea-bad3-0a58647f81fd_8.jpeg
+448,Shokoladnitsa,LANÇ MENYU,Lanç Menyu #3,Şorba + İsti Yemək + Qarnir + İçki,"7,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e85dd8019c972245bf5cce3/296d568a-7e32-11ea-bc4e-0a5864671506_a__4_.jpeg
+449,Shokoladnitsa,SƏHƏR YEMƏYİ,Moruq Sousu ilə Sırnik,,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/a3512a44-74e1-11ea-9add-0a586460e23d_________________________________________________.jpeg
+450,Shokoladnitsa,FƏSƏLİ,Fəsəli Pendir və Vetçina ilə,,"6,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/7a93d26c-74e3-11ea-839a-0a586462af02_____________________________.jpeg
+451,Shokoladnitsa,AVOKADO MENYU,Avokado Smuzi,,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e85dd8019c972245bf5cce3/a9a27b32-c0fe-11ea-be5a-8265ede53901_85ce5273_ccd2_4802_b322_e25ee8f2e486_0ada7484_cec2_4df0_bfbc_8a4b97b02168.jpeg
+452,Shokoladnitsa,SENDVİÇ VƏ ROLLAR,Sezar Roll,"Sevimli ""Sezar""-ınız rollda","8,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/0fe9d6b2-74e5-11ea-8d43-0a58647f8459____________.jpeg
+453,Shokoladnitsa,SALATLAR,Toyuq Şnitzeli və Avokadolu Salat,,"12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e85dd8019c972245bf5cce3/f8e1b9de-c0fd-11ea-a287-ea8cbcfd9420_6171b613_dedb_49a1_8729_0a013dbe25b6.jpeg
+454,Shokoladnitsa,ƏSAS YEMƏKLƏR,Mal Ətindən Bifşteks Paşot Yumurta ilə,"Bifşteks paşot yumurta, xardal-kremli sous və seçimə görə qarnirlə","16,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e85dd8019c972245bf5cce3/47d99c5a-8495-11ea-a8ee-0a586466b663_a__21_.jpeg
+455,Shokoladnitsa,YARIMFABRİKATLAR,Kiyev Kotleti,2 ədəd,"5,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5e85dd8019c972245bf5cce3/8e3beec0-d731-11ea-93bd-8a910f577515_f5472886_9587_49ee_bc58_5b6cc5d86e6b_36089_000015783dc6b0bc.jpeg
+456,Shokoladnitsa,ŞORBALAR,Göbələkli Krem Şorbası,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/4b7388b8-74e5-11ea-9559-0a586462ab06________________-__________________.jpeg
+457,Shokoladnitsa,QƏHVƏLİ İÇKİLƏR,Masala Rafı,Qara çay və ədviyyatların orijinal ətri ilə kremli qəhvə,"8,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/8488fd22-7666-11ea-aa11-0a58647f8893___________.jpeg
+458,Shokoladnitsa,İSTİ İÇKİLƏR,Çaytikanı ilə Çay,"Çaytikanı, bal və limon şirəsi","12,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/fe299858-7670-11ea-a6cc-0a5864635d13__________________.jpeg
+459,Shokoladnitsa,SOYUQ İÇKİLƏR,Sirab® 330 ml,,"4,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/3bf13c26-7672-11ea-bf50-0a5864630812_sirab_qazsiz_330_ml.jpeg
+460,Namaste,Wolt Specials,Ailə Kombo Set 😍,"Tərəvəzli qəlyanaltı, tərəvəzsiz qəlyanaltı, vegetarian karri, klassik karri, sadə düyü, sadə naan, sadə roti + toyuq biryani hədiyyə! 🎁","75,00₼",
+461,Namaste,SUPLAR,Krevetkalı Sup,Krevetler ədviyyatda və təmiz bulyonda bişirilir,"9,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/746570b2-a710-11ea-ab68-0a5864792f14_prawn_soup.jpeg
+462,Namaste,QƏLYANALTILAR,Xırçıldayan Gül Kələmləri,Gül kələmi xircildayan xəmirdə hind ədvaları ilə yağda bişirilir,"10,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/343f6fee-a704-11ea-a441-0a586478ef2c_crispy_chicken___crispy_cauliflower.jpeg
+463,Namaste,TANDOORİ KABAB,Təndirdə Haryali Toyuq Kababı,Toyuq tikələri keşniş nanə və hind ədvaları ilə marinə edilərək təndirdə bişirilir,"14,80₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/a52dd976-a703-11ea-b305-0a5864792d09_chicken_seekh_kabab.jpeg
+464,Namaste,ŞEFDƏN,Kholapury Qoyun,"Qovrulmuş hindistan ədvaları, kokos südü və xalapuri bibərləri sousunda hazırlanmıç köri","21,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/599e3808-a702-11ea-8187-0a5864793005_chicken_kholapuri___lamb_kholapuri.jpeg
+465,Namaste,CURRY,Rogan Josh Qoyun Əti ilə,Qoyun əti rogan usulu ilə hazırlanmış ədvalı köri sosunda bişirilir,"21,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/95d50d28-a703-11ea-800e-0a5864793404_chicken_rogan_josh__lamb_rogan_josh.jpeg
+466,Namaste,VEGETARYAN MENU,Malai Kofta,Hind üsulu ilə hazırlanmış pendirlər qaymaq və hind qozundan hazırlanmış sousda bişirilir,"15,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/8f4886f4-a70f-11ea-bc4e-0a586478ef2e_malai_kofta.jpeg
+467,Namaste,DÜYÜ,Tərəvəzli Qovrulmuş Düyü,Tərəvəzlərlə qovrulmuş düyü,"7,50₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/fc7b8a54-a710-11ea-a0d9-0a586478383f_veg_fried_rice.jpeg
+468,Namaste,NAAN & ROTİ,Keema Naan,,"6,00₼",https://wolt-menu-images-cdn.wolt.com/menu-images/5ed77cc4ae08fd433841e782/049732ba-a702-11ea-bab1-0a5864792d0c_butter_naan.jpeg

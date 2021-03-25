@@ -3,6 +3,8 @@ module.exports = function paginatedResults(model) {
     const search = req.query.search;
     const price = req.query.price;
 
+    console.log(search,price);
+
     const page = parseInt(req.query.page);
     const limit = parseInt(req.query.limit);
 

@@ -10,14 +10,14 @@ Returns : new restaurant data
 no neet to be authenticated
 */
 router.post("/", async (req, res) => {
-  const { name, logo, description, address, food_type } = req.body;
+  const { name, logo, description, location, food_type } = req.body;
   try {
     let restaurant = new Restaurant({
       name,
       logo,
       description,
       food_type,
-      address,
+      location,
     });
     await restaurant.save();
     res.json({ restaurant });

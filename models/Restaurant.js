@@ -6,7 +6,7 @@ const RestaurantSchema = new mongoose.Schema({
     description: { type: String },
     food_type:{type: String},
     amount: {type: Number, default:0},
-    address: { latitude: { type: String }, longitude: { type: String }},
+    location: { type: String },
     created: {
         type: Date,
         default: Date.now

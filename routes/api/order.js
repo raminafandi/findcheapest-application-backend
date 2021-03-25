@@ -14,6 +14,7 @@ should be authenticated
 router.post("/", auth, async (req, res) => {
   let { total_amount, _food } = req.body;
   try {
+    
     // 5 percentage discount
     total_amount = total_amount * 0.95;
 
